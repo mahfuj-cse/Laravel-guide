@@ -482,6 +482,133 @@
 ### Q: Who won the game? (খেলায় কে জিতেছে?)
 **A:** Our team won. (আমাদের দল জিতেছে।)
 
+### Q: Who is your boss? (তোমার বস কে?)
+**A:** Mr. Ahmed is my boss. (মি. আহমেদ আমার বস।)
+
+### Q: Who drives this car? (এই গাড়ি কে চালায়?)
+**A:** My father drives it. (আমার বাবা চালান।)
+
+### Q: Who cooked this food? (এই খাবার কে রান্না করেছে?)
+**A:** My mother cooked it. (আমার মা রান্না করেছেন।)
+
+### Q: Who is your neighbor? (তোমার প্রতিবেশী কে?)
+**A:** Mrs. Khan is my neighbor. (মিসেস খান আমার প্রতিবেশী।)
+
+### Q: Who owns this house? (এই বাড়ির মালিক কে?)
+**A:** My uncle owns it. (আমার চাচা মালিক।)
+
+### Q: Who is your doctor? (তোমার ডাক্তার কে?)
+**A:** Dr. Islam is my doctor. (ডা. ইসলাম আমার ডাক্তার।)
+
+### Q: Who wrote this book? (এই বই কে লিখেছে?)
+**A:** Humayun Ahmed wrote it. (হুমায়ূন আহমেদ লিখেছেন।)
+
+### Q: Who is the president? (রাষ্ট্রপতি কে?)
+**A:** Mr. Hamid is the president. (মি. হামিদ রাষ্ট্রপতি।)
+
+### Q: Who teaches you English? (তোমাকে ইংরেজি কে শেখায়?)
+**A:** Miss Fatima teaches me. (মিস ফাতিমা শেখান।)
+
+### Q: Who is your favorite actor? (তোমার প্রিয় অভিনেতা কে?)
+**A:** Shah Rukh Khan is my favorite. (শাহরুখ খান আমার প্রিয়।)
+
+### Q: Who cleans your house? (তোমার বাড়ি কে পরিষ্কার করে?)
+**A:** We clean it ourselves. (আমরা নিজেরাই পরিষ্কার করি।)
+
+### Q: Who is your role model? (তোমার আদর্শ কে?)
+**A:** My father is my role model. (আমার বাবা আমার আদর্শ।)
+
+### Q: Who repairs your phone? (তোমার ফোন কে মেরামত করে?)
+**A:** The technician repairs it. (টেকনিশিয়ান মেরামত করে।)
+
+### Q: Who is your dentist? (তোমার দাঁতের ডাক্তার কে?)
+**A:** Dr. Karim is my dentist. (ডা. করিম আমার দাঁতের ডাক্তার।)
+
+### Q: Who cuts your hair? (তোমার চুল কে কাটে?)
+**A:** The barber cuts my hair. (নাপিত আমার চুল কাটে।)
+
+### Q: Who is your landlord? (তোমার বাড়িওয়ালা কে?)
+**A:** Mr. Hasan is my landlord. (মি. হাসান আমার বাড়িওয়ালা।)
+
+### Q: Who delivers your mail? (তোমার চিঠি কে পৌঁছায়?)
+**A:** The postman delivers it. (ডাকপিয়ন পৌঁছায়।)
+
+### Q: Who is your favorite singer? (তোমার প্রিয় গায়ক কে?)
+**A:** Runa Laila is my favorite. (রুনা লায়লা আমার প্রিয়।)
+
+### Q: Who manages your office? (তোমার অফিস কে পরিচালনা করে?)
+**A:** The manager manages it. (ম্যানেজার পরিচালনা করেন।)
+
+### Q: Who is your childhood friend? (তোমার শৈশবের বন্ধু কে?)
+**A:** Rahim is my childhood friend. (রহিম আমার শৈশবের বন্ধু।)
+
+### Q: Who inspired you? (তোমাকে কে অনুপ্রাণিত করেছে?)
+**A:** My teacher inspired me. (আমার শিক্ষক অনুপ্রাণিত করেছেন।)
+
+### Q: Who is your business partner? (তোমার ব্যবসায়িক অংশীদার কে?)
+**A:** My brother is my partner. (আমার ভাই আমার অংশীদার।)
+
+### Q: Who takes care of your garden? (তোমার বাগানের যত্ন কে নেয়?)
+**A:** I take care of it myself. (আমি নিজেই যত্ন নিই।)
+
+### Q: Who is your mentor? (তোমার পরামর্শদাতা কে?)
+**A:** My senior colleague is my mentor. (আমার সিনিয়র সহকর্মী আমার পরামর্শদাতা।)
+
+### Q: Who designed this building? (এই ভবন কে ডিজাইন করেছে?)
+**A:** A famous architect designed it. (একজন বিখ্যাত স্থপতি ডিজাইন করেছেন।)
+
+### Q: Who is your favorite writer? (তোমার প্রিয় লেখক কে?)
+**A:** Rabindranath Tagore is my favorite. (রবীন্দ্রনাথ ঠাকুর আমার প্রিয়।)
+
+### Q: Who guards your building? (তোমার ভবনের পাহারা কে দেয়?)
+**A:** The security guard does. (নিরাপত্তা প্রহরী দেয়।)
+
+### Q: Who is your gym trainer? (তোমার জিম ট্রেইনার কে?)
+**A:** Mr. Kamal is my trainer. (মি. কামাল আমার ট্রেইনার।)
+
+### Q: Who translates for you? (তোমার জন্য কে অনুবাদ করে?)
+**A:** My friend translates for me. (আমার বন্ধু অনুবাদ করে।)
+
+### Q: Who is your favorite politician? (তোমার প্রিয় রাজনীতিবিদ কে?)
+**A:** I don't have a favorite. (আমার কোনো প্রিয় নেই।)
+
+### Q: Who maintains your computer? (তোমার কম্পিউটার কে রক্ষণাবেক্ষণ করে?)
+**A:** The IT support team does. (আইটি সাপোর্ট টিম করে।)
+
+### Q: Who is your spiritual guide? (তোমার আধ্যাত্মিক গুরু কে?)
+**A:** The imam is my guide. (ইমাম সাহেব আমার গুরু।)
+
+### Q: Who organizes your events? (তোমার অনুষ্ঠান কে আয়োজন করে?)
+**A:** An event management company does. (একটি ইভেন্ট ম্যানেজমেন্ট কোম্পানি করে।)
+
+### Q: Who is your financial advisor? (তোমার আর্থিক পরামর্শদাতা কে?)
+**A:** My bank manager advises me. (আমার ব্যাংক ম্যানেজার পরামর্শ দেন।)
+
+### Q: Who motivates you daily? (তোমাকে প্রতিদিন কে অনুপ্রেরণা দেয়?)
+**A:** My family motivates me. (আমার পরিবার অনুপ্রেরণা দেয়।)
+
+### Q: Who is your emergency contact? (তোমার জরুরি যোগাযোগ কে?)
+**A:** My spouse is my emergency contact. (আমার স্ত্রী/স্বামী আমার জরুরি যোগাযোগ।)
+
+### Q: Who influences your decisions? (তোমার সিদ্ধান্তে কে প্রভাব ফেলে?)
+**A:** My parents influence my decisions. (আমার বাবা-মা আমার সিদ্ধান্তে প্রভাব ফেলেন।)
+**A:** It's the delivery man. (ডেলিভারি ম্যান।)
+
+### Q: Who told you this? (এটা তোমাকে কে বলেছে?)
+**A:** My friend told me. (আমার বন্ধু বলেছে।)
+
+### Q: Who's your teacher? (তোমার শিক্ষক কে?)
+**A:** Mr. Rahman is my teacher. (মি. রহমান আমার শিক্ষক।)
+
+### Q: Who can help me? (কে আমাকে সাহায্য করতে পারে?)
+**A:** I can help you. (আমি তোমাকে সাহায্য করতে পারি।)
+
+### Q: Who's your best friend? (তোমার সবচেয়ে ভালো বন্ধু কে?)
+**A:** Sarah is my best friend. (সারা আমার সবচেয়ে ভালো বন্ধু।)
+
+### Q: Who won the game? (খেলায় কে জিতেছে?)
+**A:** Our team won. (আমাদের দল জিতেছে।)
+
 ---
 
 ## 5. WHY Questions (কেন)
