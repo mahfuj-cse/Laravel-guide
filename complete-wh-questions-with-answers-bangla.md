@@ -592,6 +592,491 @@
 
 ### Q: Who influences your decisions? (তোমার সিদ্ধান্তে কে প্রভাব ফেলে?)
 **A:** My parents influence my decisions. (আমার বাবা-মা আমার সিদ্ধান্তে প্রভাব ফেলেন।)
+
+---
+
+## 5. WHY Questions (কেন)
+
+### Q: Why are you late? (তুমি কেন দেরি করেছো?)
+**A:** Because of traffic jam. (ট্রাফিক জ্যামের কারণে।)
+
+### Q: Why do you like this movie? (তুমি এই সিনেমা কেন পছন্দ করো?)
+**A:** Because it's very funny. (কারণ এটা খুব মজার।)
+
+### Q: Why are you sad? (তুমি কেন দুঃখিত?)
+**A:** I failed my exam. (আমি পরীক্ষায় ফেল করেছি।)
+
+### Q: Why don't you eat meat? (তুমি মাংস খাও না কেন?)
+**A:** I'm a vegetarian. (আমি নিরামিষাশী।)
+
+### Q: Why is he angry? (সে কেন রাগ করেছে?)
+**A:** Someone broke his phone. (কেউ তার ফোন ভেঙে দিয়েছে।)
+
+### Q: Why are you learning English? (তুমি ইংরেজি শিখছো কেন?)
+**A:** For better job opportunities. (ভালো চাকরির সুযোগের জন্য।)
+
+### Q: Why is the door locked? (দরজা কেন তালাবন্ধ?)
+**A:** For security reasons. (নিরাপত্তার কারণে।)
+
+### Q: Why don't you drive? (তুমি গাড়ি চালাও না কেন?)
+**A:** I don't have a license. (আমার লাইসেন্স নেই।)
+
+### Q: Why are you crying? (তুমি কেন কাঁদছো?)
+**A:** I'm watching a sad movie. (আমি একটা দুঃখের সিনেমা দেখছি।)
+
+### Q: Why did you quit your job? (তুমি চাকরি ছেড়ে দিলে কেন?)
+**A:** I found a better opportunity. (আমি আরো ভালো সুযোগ পেয়েছি।)
+
+### Q: Why do you wake up early? (তুমি কেন ভোরে উঠো?)
+**A:** To exercise and pray. (ব্যায়াম আর নামাজের জন্য।)
+
+### Q: Why don't you like coffee? (তুমি কফি পছন্দ করো না কেন?)
+**A:** It makes me nervous. (এটা আমাকে অস্থির করে।)
+
+### Q: Why are you studying so hard? (তুমি কেন এত কঠিন পড়াশোনা করছো?)
+**A:** I want to get good grades. (আমি ভালো ফলাফল পেতে চাই।)
+
+### Q: Why did you move here? (তুমি এখানে এলে কেন?)
+**A:** For a better job. (ভালো চাকরির জন্য।)
+
+### Q: Why don't you have a car? (তোমার গাড়ি নেই কেন?)
+**A:** I can't afford it. (আমি কিনতে পারি না।)
+
+### Q: Why are you happy today? (তুমি আজ খুশি কেন?)
+**A:** I got promoted. (আমি পদোন্নতি পেয়েছি।)
+
+### Q: Why don't you eat spicy food? (তুমি ঝাল খাবার খাও না কেন?)
+**A:** It hurts my stomach. (এটা আমার পেটে ব্যথা করে।)
+
+### Q: Why did you choose this career? (তুমি এই ক্যারিয়ার বেছে নিলে কেন?)
+**A:** I'm passionate about it. (আমি এটা নিয়ে আগ্রহী।)
+
+### Q: Why are you tired? (তুমি কেন ক্লান্ত?)
+**A:** I worked all night. (আমি সারারাত কাজ করেছি।)
+
+### Q: Why don't you watch TV? (তুমি টিভি দেখো না কেন?)
+**A:** I prefer reading books. (আমি বই পড়তে পছন্দ করি।)
+
+### Q: Why did you buy this phone? (তুমি এই ফোন কিনলে কেন?)
+**A:** It has good features. (এটার ভালো ফিচার আছে।)
+
+### Q: Why are you worried? (তুমি কেন চিন্তিত?)
+**A:** I have an exam tomorrow. (আমার কাল পরীক্ষা।)
+
+### Q: Why don't you go out? (তুমি বাইরে যাও না কেন?)
+**A:** It's raining outside. (বাইরে বৃষ্টি হচ্ছে।)
+
+### Q: Why did you start this business? (তুমি এই ব্যবসা শুরু করলে কেন?)
+**A:** To be independent. (স্বাধীন হওয়ার জন্য।)
+
+### Q: Why are you excited? (তুমি কেন উত্তেজিত?)
+**A:** I'm going on vacation. (আমি ছুটিতে যাচ্ছি।)
+
+### Q: Why don't you like winter? (তুমি শীতকাল পছন্দ করো না কেন?)
+**A:** It's too cold for me. (আমার কাছে অত্যধিক ঠান্ডা।)
+
+### Q: Why did you change your job? (তুমি চাকরি বদলালে কেন?)
+**A:** For better salary. (ভালো বেতনের জন্য।)
+
+### Q: Why are you laughing? (তুমি কেন হাসছো?)
+**A:** I heard a funny joke. (আমি একটা মজার জোক শুনেছি।)
+
+### Q: Why don't you use social media? (তুমি সোশ্যাল মিডিয়া ব্যবহার করো না কেন?)
+**A:** It wastes too much time. (এটা অনেক সময় নষ্ট করে।)
+
+### Q: Why did you learn to cook? (তুমি রান্না শিখলে কেন?)
+**A:** To save money. (টাকা বাঁচানোর জন্য।)
+
+### Q: Why are you nervous? (তুমি কেন অস্থির?)
+**A:** I have a job interview. (আমার চাকরির ইন্টারভিউ আছে।)
+
+### Q: Why don't you eat fast food? (তুমি ফাস্ট ফুড খাও না কেন?)
+**A:** It's unhealthy. (এটা অস্বাস্থ্যকর।)
+
+### Q: Why did you wake up late? (তুমি দেরিতে উঠলে কেন?)
+**A:** I slept very late. (আমি অনেক দেরিতে ঘুমিয়েছি।)
+
+### Q: Why are you saving money? (তুমি কেন টাকা জমা করছো?)
+**A:** To buy a house. (একটা বাড়ি কেনার জন্য।)
+
+### Q: Why don't you like crowds? (তুমি ভিড় পছন্দ করো না কেন?)
+**A:** I feel uncomfortable. (আমি অস্বস্তি বোধ করি।)
+
+### Q: Why did you choose this university? (তুমি এই বিশ্ববিদ্যালয় বেছে নিলে কেন?)
+**A:** It has a good reputation. (এটার ভালো সুনাম আছে।)
+
+### Q: Why are you proud? (তুমি কেন গর্বিত?)
+**A:** My son graduated. (আমার ছেলে স্নাতক হয়েছে।)
+
+### Q: Why don't you travel alone? (তুমি একা ভ্রমণ করো না কেন?)
+**A:** I prefer company. (আমি সঙ্গ পছন্দ করি।)
+
+### Q: Why did you apologize? (তুমি কেন ক্ষমা চেয়েছিলে?)
+**A:** I made a mistake. (আমি ভুল করেছিলাম।)
+
+### Q: Why are you grateful? (তুমি কেন কৃতজ্ঞ?)
+**A:** I have a loving family. (আমার ভালোবাসার পরিবার আছে।)
+
+### Q: Why don't you smoke? (তুমি ধূমপান করো না কেন?)
+**A:** It's bad for health. (এটা স্বাস্থ্যের জন্য খারাপ।)
+
+### Q: Why did you help him? (তুমি তাকে সাহায্য করলে কেন?)
+**A:** He needed help. (তার সাহায্য দরকার ছিল।)
+
+### Q: Why are you disappointed? (তুমি কেন নিরাশ?)
+**A:** I didn't get the job. (আমি চাকরি পাইনি।)
+
+---
+
+## 6. WHICH Questions (কোনটি)
+
+### Q: Which color do you prefer? (তুমি কোন রঙ পছন্দ করো?)
+**A:** I prefer red. (আমি লাল পছন্দ করি।)
+
+### Q: Which way should we go? (আমাদের কোন পথে যাওয়া উচিত?)
+**A:** We should go left. (আমাদের বামে যাওয়া উচিত।)
+
+### Q: Which book is yours? (কোন বইটা তোমার?)
+**A:** The blue one is mine. (নীল রঙের টা আমার।)
+
+### Q: Which car do you like? (তুমি কোন গাড়িটা পছন্দ করো?)
+**A:** I like the white car. (আমি সাদা গাড়িটা পছন্দ করি।)
+
+### Q: Which movie did you watch? (তুমি কোন সিনেমা দেখেছো?)
+**A:** I watched Titanic. (আমি টাইটানিক দেখেছি।)
+
+### Q: Which subject do you like? (তুমি কোন বিষয় পছন্দ করো?)
+**A:** I like Mathematics. (আমি গণিত পছন্দ করি।)
+
+### Q: Which restaurant is better? (কোন রেস্তোরাঁ ভালো?)
+**A:** The Italian one is better. (ইতালিয়ান টা ভালো।)
+
+### Q: Which phone should I buy? (আমি কোন ফোন কিনবো?)
+**A:** You should buy iPhone. (তোমার আইফোন কেনা উচিত।)
+
+### Q: Which dress looks good? (কোন পোশাকটা ভালো লাগছে?)
+**A:** The black dress looks good. (কালো পোশাকটা ভালো লাগছে।)
+
+### Q: Which team will win? (কোন দল জিতবে?)
+**A:** I think Brazil will win. (আমি মনে করি ব্রাজিল জিতবে।)
+
+### Q: Which season do you prefer? (তুমি কোন ঋতু পছন্দ করো?)
+**A:** I prefer spring. (আমি বসন্ত পছন্দ করি।)
+
+### Q: Which language is easier? (কোন ভাষা সহজ?)
+**A:** English is easier. (ইংরেজি সহজ।)
+
+### Q: Which fruit do you want? (তুমি কোন ফল চাও?)
+**A:** I want an apple. (আমি একটা আপেল চাই।)
+
+### Q: Which job is better? (কোন চাকরি ভালো?)
+**A:** The government job is better. (সরকারি চাকরি ভালো।)
+
+### Q: Which city do you prefer? (তুমি কোন শহর পছন্দ করো?)
+**A:** I prefer Dhaka. (আমি ঢাকা পছন্দ করি।)
+
+### Q: Which sport is popular? (কোন খেলা জনপ্রিয়?)
+**A:** Cricket is popular. (ক্রিকেট জনপ্রিয়।)
+
+### Q: Which university is best? (কোন বিশ্ববিদ্যালয় সেরা?)
+**A:** Dhaka University is best. (ঢাকা বিশ্ববিদ্যালয় সেরা।)
+
+### Q: Which food is spicy? (কোন খাবার ঝাল?)
+**A:** Curry is spicy. (তরকারি ঝাল।)
+
+### Q: Which animal is fastest? (কোন প্রাণী সবচেয়ে দ্রুত?)
+**A:** Cheetah is fastest. (চিতা সবচেয়ে দ্রুত।)
+
+### Q: Which brand is good? (কোন ব্র্যান্ড ভালো?)
+**A:** Samsung is good. (স্যামসাং ভালো।)
+
+### Q: Which country is bigger? (কোন দেশ বড়?)
+**A:** China is bigger. (চীন বড়।)
+
+### Q: Which flower smells good? (কোন ফুলের সুগন্ধ ভালো?)
+**A:** Rose smells good. (গোলাপের সুগন্ধ ভালো।)
+
+### Q: Which subject is difficult? (কোন বিষয় কঠিন?)
+**A:** Physics is difficult. (পদার্থবিজ্ঞান কঠিন।)
+
+### Q: Which drink is healthy? (কোন পানীয় স্বাস্থ্যকর?)
+**A:** Green tea is healthy. (গ্রিন টি স্বাস্থ্যকর।)
+
+### Q: Which game is fun? (কোন খেলা মজার?)
+**A:** Football is fun. (ফুটবল মজার।)
+
+### Q: Which month is hottest? (কোন মাস সবচেয়ে গরম?)
+**A:** April is hottest. (এপ্রিল সবচেয়ে গরম।)
+
+### Q: Which day is busiest? (কোন দিন সবচেয়ে ব্যস্ত?)
+**A:** Monday is busiest. (সোমবার সবচেয়ে ব্যস্ত।)
+
+### Q: Which place is quieter? (কোন জায়গা শান্ত?)
+**A:** The library is quieter. (লাইব্রেরি শান্ত।)
+
+### Q: Which size fits you? (কোন সাইজ তোমার মানান?)
+**A:** Medium size fits me. (মিডিয়াম সাইজ আমার মানান।)
+
+### Q: Which route is shorter? (কোন রাস্তা ছোট?)
+**A:** This route is shorter. (এই রাস্তা ছোট।)
+
+### Q: Which option is cheaper? (কোন অপশন সস্তা?)
+**A:** The bus is cheaper. (বাস সস্তা।)
+
+### Q: Which method works better? (কোন পদ্ধতি ভালো কাজ করে?)
+**A:** This method works better. (এই পদ্ধতি ভালো কাজ করে।)
+
+### Q: Which time is convenient? (কোন সময় সুবিধাজনক?)
+**A:** Morning time is convenient. (সকালের সময় সুবিধাজনক।)
+
+### Q: Which style do you like? (তুমি কোন স্টাইল পছন্দ করো?)
+**A:** I like modern style. (আমি আধুনিক স্টাইল পছন্দ করি।)
+
+### Q: Which quality is important? (কোন গুণ গুরুত্বপূর্ণ?)
+**A:** Honesty is important. (সত্যবাদিতা গুরুত্বপূর্ণ।)
+
+### Q: Which problem is serious? (কোন সমস্যা গুরুতর?)
+**A:** Pollution is serious. (দূষণ গুরুতর।)
+
+### Q: Which decision is right? (কোন সিদ্ধান্ত সঠিক?)
+**A:** Your decision is right. (তোমার সিদ্ধান্ত সঠিক।)
+
+### Q: Which solution is effective? (কোন সমাধান কার্যকর?)
+**A:** This solution is effective. (এই সমাধান কার্যকর।)
+
+### Q: Which approach is better? (কোন পদ্ধতি ভালো?)
+**A:** The direct approach is better. (সরাসরি পদ্ধতি ভালো।)
+
+### Q: Which opportunity is best? (কোন সুযোগ সেরা?)
+**A:** This opportunity is best. (এই সুযোগ সেরা।)
+
+### Q: Which experience was memorable? (কোন অভিজ্ঞতা স্মরণীয়?)
+**A:** My graduation was memorable. (আমার স্নাতক স্মরণীয় ছিল।)
+
+### Q: Which challenge is biggest? (কোন চ্যালেঞ্জ সবচেয়ে বড়?)
+**A:** Learning new skills is biggest. (নতুন দক্ষতা শেখা সবচেয়ে বড়।)
+
+### Q: Which achievement makes you proud? (কোন অর্জন তোমাকে গর্বিত করে?)
+**A:** My first job makes me proud. (আমার প্রথম চাকরি আমাকে গর্বিত করে।)
+
+### Q: Which moment was happiest? (কোন মুহূর্ত সবচেয়ে খুশির?)
+**A:** My wedding was happiest. (আমার বিয়ে সবচেয়ে খুশির ছিল।)
+
+### Q: Which lesson was valuable? (কোন শিক্ষা মূল্যবান?)
+**A:** Life lessons are valuable. (জীবনের শিক্ষা মূল্যবান।)
+
+### Q: Which memory is special? (কোন স্মৃতি বিশেষ?)
+**A:** Childhood memories are special. (শৈশবের স্মৃতি বিশেষ।)
+
+---
+
+## 7. HOW Questions (কিভাবে/কেমন)
+
+### Q: How are you? (তুমি কেমন আছো?)
+**A:** I'm fine, thank you. (আমি ভালো আছি, ধন্যবাদ।)
+
+### Q: How do you get to work? (তুমি কিভাবে কাজে যাও?)
+**A:** I go by bus. (আমি বাসে যাই।)
+
+### Q: How do you cook rice? (তুমি কিভাবে ভাত রান্না করো?)
+**A:** I use a rice cooker. (আমি রাইস কুকার ব্যবহার করি।)
+
+### Q: How was your day? (তোমার দিন কেমন কেটেছে?)
+**A:** It was great! (খুব ভালো কেটেছে!)
+
+### Q: How do you spell your name? (তুমি তোমার নাম কিভাবে বানান করো?)
+**A:** J-O-H-N, John. (জে-ও-এইচ-এন, জন।)
+
+### Q: How old are you? (তোমার বয়স কত?)
+**A:** I'm 25 years old. (আমার বয়স ২৫ বছর।)
+
+### Q: How did you learn English? (তুমি কিভাবে ইংরেজি শিখেছো?)
+**A:** I learned from online courses. (আমি অনলাইন কোর্স থেকে শিখেছি।)
+
+### Q: How do you feel? (তুমি কেমন অনুভব করছো?)
+**A:** I feel tired. (আমি ক্লান্ত অনুভব করছি।)
+
+### Q: How is the weather? (আবহাওয়া কেমন?)
+**A:** It's cold and rainy. (ঠান্ডা এবং বৃষ্টি হচ্ছে।)
+
+### Q: How do you make tea? (তুমি কিভাবে চা বানাও?)
+**A:** I boil water and add tea leaves. (আমি পানি ফোটাই এবং চা পাতা দিই।)ersity? (তুমি এই বিশ্ববিদ্যালয় বেছে নিলে কেন?)
+**A:** It has a good reputation. (এটার ভালো সুনাম আছে।)
+
+### Q: Why are you proud? (তুমি কেন গর্বিত?)
+**A:** My son graduated. (আমার ছেলে স্নাতক হয়েছে।)
+
+### Q: Why don't you travel alone? (তুমি একা ভ্রমণ করো না কেন?)
+**A:** I prefer company. (আমি সঙ্গ পছন্দ করি।)
+
+### Q: Why did you apologize? (তুমি কেন ক্ষমা চেয়েছিলে?)
+**A:** I made a mistake. (আমি ভুল করেছিলাম।)
+
+### Q: Why are you grateful? (তুমি কেন কৃতজ্ঞ?)
+**A:** I have a loving family. (আমার ভালোবাসার পরিবার আছে।)
+
+### Q: Why don't you smoke? (তুমি ধূমপান করো না কেন?)
+**A:** It's bad for health. (এটা স্বাস্থ্যের জন্য খারাপ।)
+
+### Q: Why did you help him? (তুমি তাকে সাহায্য করলে কেন?)
+**A:** He needed help. (তার সাহায্য দরকার ছিল।)
+
+### Q: Why are you disappointed? (তুমি কেন নিরাশ?)
+**A:** I didn't get the job. (আমি চাকরি পাইনি।)
+
+---
+
+## 6. WHICH Questions (কোনটি)
+
+### Q: Which color do you prefer? (তুমি কোন রঙ পছন্দ করো?)
+**A:** I prefer red. (আমি লাল পছন্দ করি।)
+
+### Q: Which way should we go? (আমাদের কোন পথে যাওয়া উচিত?)
+**A:** We should go left. (আমাদের বামে যাওয়া উচিত।)
+
+### Q: Which book is yours? (কোন বইটা তোমার?)
+**A:** The blue one is mine. (নীল রঙের টা আমার।)
+
+### Q: Which car do you like? (তুমি কোন গাড়িটা পছন্দ করো?)
+**A:** I like the white car. (আমি সাদা গাড়িটা পছন্দ করি।)
+
+### Q: Which movie did you watch? (তুমি কোন সিনেমা দেখেছো?)
+**A:** I watched Titanic. (আমি টাইটানিক দেখেছি।)
+
+### Q: Which subject do you like? (তুমি কোন বিষয় পছন্দ করো?)
+**A:** I like Mathematics. (আমি গণিত পছন্দ করি।)
+
+### Q: Which restaurant is better? (কোন রেস্তোরাঁ ভালো?)
+**A:** The Italian one is better. (ইতালিয়ান টা ভালো।)
+
+### Q: Which phone should I buy? (আমি কোন ফোন কিনবো?)
+**A:** You should buy iPhone. (তোমার আইফোন কেনা উচিত।)
+
+### Q: Which dress looks good? (কোন পোশাকটা ভালো লাগছে?)
+**A:** The black dress looks good. (কালো পোশাকটা ভালো লাগছে।)
+
+### Q: Which team will win? (কোন দল জিতবে?)
+**A:** I think Brazil will win. (আমি মনে করি ব্রাজিল জিতবে।)
+
+### Q: Which season do you prefer? (তুমি কোন ঋতু পছন্দ করো?)
+**A:** I prefer spring. (আমি বসন্ত পছন্দ করি।)
+
+### Q: Which language is easier? (কোন ভাষা সহজ?)
+**A:** English is easier. (ইংরেজি সহজ।)
+
+### Q: Which fruit do you want? (তুমি কোন ফল চাও?)
+**A:** I want an apple. (আমি একটা আপেল চাই।)
+
+### Q: Which job is better? (কোন চাকরি ভালো?)
+**A:** The government job is better. (সরকারি চাকরি ভালো।)
+
+### Q: Which city do you prefer? (তুমি কোন শহর পছন্দ করো?)
+**A:** I prefer Dhaka. (আমি ঢাকা পছন্দ করি।)
+
+### Q: Which sport is popular? (কোন খেলা জনপ্রিয়?)
+**A:** Cricket is popular. (ক্রিকেট জনপ্রিয়।)
+
+### Q: Which university is best? (কোন বিশ্ববিদ্যালয় সেরা?)
+**A:** Dhaka University is best. (ঢাকা বিশ্ববিদ্যালয় সেরা।)
+
+### Q: Which food is spicy? (কোন খাবার ঝাল?)
+**A:** Curry is spicy. (তরকারি ঝাল।)
+
+### Q: Which animal is fastest? (কোন প্রাণী সবচেয়ে দ্রুত?)
+**A:** Cheetah is fastest. (চিতা সবচেয়ে দ্রুত।)
+
+### Q: Which brand is good? (কোন ব্র্যান্ড ভালো?)
+**A:** Samsung is good. (স্যামসাং ভালো।)
+
+### Q: Which country is bigger? (কোন দেশ বড়?)
+**A:** China is bigger. (চীন বড়।)
+
+### Q: Which flower smells good? (কোন ফুলের সুগন্ধ ভালো?)
+**A:** Rose smells good. (গোলাপের সুগন্ধ ভালো।)
+
+### Q: Which subject is difficult? (কোন বিষয় কঠিন?)
+**A:** Physics is difficult. (পদার্থবিজ্ঞান কঠিন।)
+
+### Q: Which drink is healthy? (কোন পানীয় স্বাস্থ্যকর?)
+**A:** Green tea is healthy. (গ্রিন টি স্বাস্থ্যকর।)
+
+### Q: Which game is fun? (কোন খেলা মজার?)
+**A:** Football is fun. (ফুটবল মজার।)
+
+### Q: Which month is hottest? (কোন মাস সবচেয়ে গরম?)
+**A:** April is hottest. (এপ্রিল সবচেয়ে গরম।)
+
+### Q: Which day is busiest? (কোন দিন সবচেয়ে ব্যস্ত?)
+**A:** Monday is busiest. (সোমবার সবচেয়ে ব্যস্ত।)
+
+### Q: Which place is quieter? (কোন জায়গা শান্ত?)
+**A:** The library is quieter. (লাইব্রেরি শান্ত।)
+
+### Q: Which size fits you? (কোন সাইজ তোমার মানান?)
+**A:** Medium size fits me. (মিডিয়াম সাইজ আমার মানান।)
+
+### Q: Which route is shorter? (কোন রাস্তা ছোট?)
+**A:** This route is shorter. (এই রাস্তা ছোট।)
+
+### Q: Which option is cheaper? (কোন অপশন সস্তা?)
+**A:** The bus is cheaper. (বাস সস্তা।)
+
+### Q: Which method works better? (কোন পদ্ধতি ভালো কাজ করে?)
+**A:** This method works better. (এই পদ্ধতি ভালো কাজ করে।)
+
+### Q: Which time is convenient? (কোন সময় সুবিধাজনক?)
+**A:** Morning time is convenient. (সকালের সময় সুবিধাজনক।)
+
+### Q: Which style do you like? (তুমি কোন স্টাইল পছন্দ করো?)
+**A:** I like modern style. (আমি আধুনিক স্টাইল পছন্দ করি।)
+
+### Q: Which quality is important? (কোন গুণ গুরুত্বপূর্ণ?)
+**A:** Honesty is important. (সত্যবাদিতা গুরুত্বপূর্ণ।)
+
+### Q: Which problem is serious? (কোন সমস্যা গুরুতর?)
+**A:** Pollution is serious. (দূষণ গুরুতর।)
+
+### Q: Which decision is right? (কোন সিদ্ধান্ত সঠিক?)
+**A:** Your decision is right. (তোমার সিদ্ধান্ত সঠিক।)
+
+### Q: Which solution is effective? (কোন সমাধান কার্যকর?)
+**A:** This solution is effective. (এই সমাধান কার্যকর।)
+
+### Q: Which approach is better? (কোন পদ্ধতি ভালো?)
+**A:** The direct approach is better. (সরাসরি পদ্ধতি ভালো।)
+
+### Q: Which opportunity is best? (কোন সুযোগ সেরা?)
+**A:** This opportunity is best. (এই সুযোগ সেরা।)
+
+### Q: Which experience was memorable? (কোন অভিজ্ঞতা স্মরণীয়?)
+**A:** My graduation was memorable. (আমার স্নাতক স্মরণীয় ছিল।)
+
+### Q: Which challenge is biggest? (কোন চ্যালেঞ্জ সবচেয়ে বড়?)
+**A:** Learning new skills is biggest. (নতুন দক্ষতা শেখা সবচেয়ে বড়।)
+
+### Q: Which achievement makes you proud? (কোন অর্জন তোমাকে গর্বিত করে?)
+**A:** My first job makes me proud. (আমার প্রথম চাকরি আমাকে গর্বিত করে।)
+
+### Q: Which moment was happiest? (কোন মুহূর্ত সবচেয়ে খুশির?)
+**A:** My wedding was happiest. (আমার বিয়ে সবচেয়ে খুশির ছিল।)
+
+### Q: Which lesson was valuable? (কোন শিক্ষা মূল্যবান?)
+**A:** Life lessons are valuable. (জীবনের শিক্ষা মূল্যবান।)
+
+### Q: Which memory is special? (কোন স্মৃতি বিশেষ?)
+**A:** Childhood memories are special. (শৈশবের স্মৃতি বিশেষ।)
+
+--- advisor? (তোমার আর্থিক পরামর্শদাতা কে?)
+**A:** My bank manager advises me. (আমার ব্যাংক ম্যানেজার পরামর্শ দেন।)
+
+### Q: Who motivates you daily? (তোমাকে প্রতিদিন কে অনুপ্রেরণা দেয়?)
+**A:** My family motivates me. (আমার পরিবার অনুপ্রেরণা দেয়।)
+
+### Q: Who is your emergency contact? (তোমার জরুরি যোগাযোগ কে?)
+**A:** My spouse is my emergency contact. (আমার স্ত্রী/স্বামী আমার জরুরি যোগাযোগ।)
+
+### Q: Who influences your decisions? (তোমার সিদ্ধান্তে কে প্রভাব ফেলে?)
+**A:** My parents influence my decisions. (আমার বাবা-মা আমার সিদ্ধান্তে প্রভাব ফেলেন।)
 **A:** It's the delivery man. (ডেলিভারি ম্যান।)
 
 ### Q: Who told you this? (এটা তোমাকে কে বলেছে?)
@@ -838,3 +1323,476 @@ Answer Pattern: Subject + Verb + Object/Complement
 ```
 
 এই সব WH questions এবং answers practice করলে আপনি perfect English conversation করতে পারবেন!
+### Q: How do you drive? (তুমি কিভাবে গাড়ি চালাও?)
+**A:** I drive carefully. (আমি সাবধানে গাড়ি চালাই।)
+
+### Q: How long have you lived here? (তুমি এখানে কতদিন ধরে থাকছো?)
+**A:** I've lived here for 5 years. (আমি এখানে ৫ বছর ধরে থাকছি।)
+
+### Q: How often do you exercise? (তুমি কত ঘন ঘন ব্যায়াম করো?)
+**A:** I exercise daily. (আমি প্রতিদিন ব্যায়াম করি।)
+
+### Q: How far is your office? (তোমার অফিস কত দূর?)
+**A:** It's 10 kilometers away. (এটা ১০ কিলোমিটার দূরে।)
+
+### Q: How fast can you run? (তুমি কত দ্রুত দৌড়াতে পারো?)
+**A:** I can run 5 km per hour. (আমি ঘন্টায় ৫ কিমি দৌড়াতে পারি।)
+
+### Q: How tall are you? (তুমি কত লম্বা?)
+**A:** I'm 5 feet 8 inches tall. (আমি ৫ ফুট ৮ ইঞ্চি লম্বা।)
+
+### Q: How heavy is this bag? (এই ব্যাগ কত ভারী?)
+**A:** It weighs 5 kilograms. (এটার ওজন ৫ কিলোগ্রাম।)
+
+### Q: How deep is this river? (এই নদী কত গভীর?)
+**A:** It's 10 feet deep. (এটা ১০ ফুট গভীর।)
+
+### Q: How wide is this road? (এই রাস্তা কত চওড়া?)
+**A:** It's 20 feet wide. (এটা ২০ ফুট চওড়া।)
+
+### Q: How hot is it today? (আজ কত গরম?)
+**A:** It's 35 degrees Celsius. (৩৫ ডিগ্রি সেলসিয়াস।)
+
+### Q: How cold was it yesterday? (গতকাল কত ঠান্ডা ছিল?)
+**A:** It was 15 degrees. (১৫ ডিগ্রি ছিল।)
+
+### Q: How loud is this music? (এই গান কত জোরে?)
+**A:** It's very loud. (এটা খুব জোরে।)
+
+### Q: How soft is this pillow? (এই বালিশ কত নরম?)
+**A:** It's very soft. (এটা খুব নরম।)
+
+### Q: How hard is this exam? (এই পরীক্ষা কত কঠিন?)
+**A:** It's quite difficult. (এটা বেশ কঠিন।)
+
+### Q: How easy is this job? (এই কাজ কত সহজ?)
+**A:** It's very easy. (এটা খুব সহজ।)
+
+### Q: How bright is this light? (এই আলো কত উজ্জ্বল?)
+**A:** It's very bright. (এটা খুব উজ্জ্বল।)
+
+### Q: How dark is this room? (এই ঘর কত অন্ধকার?)
+**A:** It's completely dark. (এটা সম্পূর্ণ অন্ধকার।)
+
+### Q: How clean is your house? (তোমার বাড়ি কত পরিষ্কার?)
+**A:** It's very clean. (এটা খুব পরিষ্কার।)
+
+### Q: How dirty are your clothes? (তোমার কাপড় কত নোংরা?)
+**A:** They're quite dirty. (এগুলো বেশ নোংরা।)
+
+### Q: How fresh is this fruit? (এই ফল কত তাজা?)
+**A:** It's very fresh. (এটা খুব তাজা।)
+
+### Q: How old is this building? (এই ভবন কত পুরানো?)
+**A:** It's 50 years old. (এটা ৫০ বছরের পুরানো।)
+
+### Q: How new is your car? (তোমার গাড়ি কত নতুন?)
+**A:** It's brand new. (এটা একদম নতুন।)
+
+### Q: How rich is he? (সে কত ধনী?)
+**A:** He's very wealthy. (সে খুব ধনী।)
+
+### Q: How poor are they? (তারা কত গরিব?)
+**A:** They're quite poor. (তারা বেশ গরিব।)
+
+### Q: How busy are you? (তুমি কত ব্যস্ত?)
+**A:** I'm very busy. (আমি খুব ব্যস্ত।)
+
+### Q: How free is your schedule? (তোমার সময়সূচি কত ফাঁকা?)
+**A:** I have some free time. (আমার কিছু ফাঁকা সময় আছে।)
+
+### Q: How happy are you? (তুমি কত খুশি?)
+**A:** I'm very happy. (আমি খুব খুশি।)
+
+### Q: How sad is she? (সে কত দুঃখিত?)
+**A:** She's quite sad. (সে বেশ দুঃখিত।)
+
+### Q: How angry was he? (সে কত রাগান্বিত ছিল?)
+**A:** He was very angry. (সে খুব রাগান্বিত ছিল।)
+
+### Q: How excited are you? (তুমি কত উত্তেজিত?)
+**A:** I'm extremely excited. (আমি অত্যন্ত উত্তেজিত।)
+
+### Q: How tired are you? (তুমি কত ক্লান্ত?)
+**A:** I'm exhausted. (আমি অবসন্ন।)
+
+### Q: How hungry are you? (তুমি কত ক্ষুধার্ত?)
+**A:** I'm starving. (আমি অনাহারে।)
+
+### Q: How thirsty are you? (তুমি কত তৃষ্ণার্ত?)
+**A:** I'm very thirsty. (আমি খুব তৃষ্ণার্ত।)
+
+### Q: How sleepy are you? (তুমি কত ঘুমঘুমে?)
+**A:** I'm quite sleepy. (আমি বেশ ঘুমঘুমে।)
+
+### Q: How nervous are you? (তুমি কত নার্ভাস?)
+**A:** I'm a bit nervous. (আমি একটু নার্ভাস।)
+
+### Q: How confident are you? (তুমি কত আত্মবিশ্বাসী?)
+**A:** I'm very confident. (আমি খুব আত্মবিশ্বাসী।)
+
+### Q: How worried are you? (তুমি কত চিন্তিত?)
+**A:** I'm quite worried. (আমি বেশ চিন্তিত।)
+
+### Q: How surprised were you? (তুমি কত অবাক হয়েছিলে?)
+**A:** I was shocked. (আমি হতবাক হয়েছিলাম।)
+
+### Q: How disappointed are you? (তুমি কত হতাশ?)
+**A:** I'm very disappointed. (আমি খুব হতাশ।)
+
+### Q: How proud are you? (তুমি কত গর্বিত?)
+**A:** I'm extremely proud. (আমি অত্যন্ত গর্বিত।)
+
+### Q: How embarrassed were you? (তুমি কত লজ্জিত হয়েছিলে?)
+**A:** I was very embarrassed. (আমি খুব লজ্জিত হয়েছিলাম।)
+
+### Q: How comfortable is this chair? (এই চেয়ার কত আরামদায়ক?)
+**A:** It's very comfortable. (এটা খুব আরামদায়ক।)
+
+### Q: How uncomfortable is this bed? (এই বিছানা কত অস্বস্তিকর?)
+**A:** It's quite uncomfortable. (এটা বেশ অস্বস্তিকর।)
+
+### Q: How safe is this area? (এই এলাকা কত নিরাপদ?)
+**A:** It's very safe. (এটা খুব নিরাপদ।)
+
+### Q: How dangerous is this road? (এই রাস্তা কত বিপজ্জনক?)
+**A:** It's quite dangerous. (এটা বেশ বিপজ্জনক।)
+
+### Q: How beautiful is this place? (এই জায়গা কত সুন্দর?)
+**A:** It's breathtaking. (এটা শ্বাসরুদ্ধকর।)
+
+### Q: How ugly is this building? (এই ভবন কত কুৎসিত?)
+**A:** It's quite ugly. (এটা বেশ কুৎসিত।)
+
+### Q: How delicious is this food? (এই খাবার কত সুস্বাদু?)
+**A:** It's absolutely delicious. (এটা একদম সুস্বাদু।)
+
+### Q: How terrible is this taste? (এই স্বাদ কত খারাপ?)
+**A:** It tastes awful. (এটার স্বাদ ভয়ানক।)
+
+### Q: How sweet is this cake? (এই কেক কত মিষ্টি?)
+**A:** It's very sweet. (এটা খুব মিষ্টি।)
+
+---
+
+## 8. HOW MUCH Questions (কত দাম/পরিমাণ)
+
+### Q: How much does it cost? (এটার দাম কত?)
+**A:** It costs 500 taka. (এটার দাম ৫০০ টাকা।)
+
+### Q: How much water do you drink? (তুমি কত পানি পান করো?)
+**A:** I drink 8 glasses daily. (আমি প্রতিদিন ৮ গ্লাস পান করি।)
+
+### Q: How much time do you need? (তোমার কত সময় লাগবে?)
+**A:** I need 2 hours. (আমার ২ ঘন্টা লাগবে।)
+
+### Q: How much money do you have? (তোমার কত টাকা আছে?)
+**A:** I have 1000 taka. (আমার ১০০০ টাকা আছে।)
+
+### Q: How much rice should I cook? (আমি কত ভাত রান্না করবো?)
+**A:** Cook 2 cups of rice. (২ কাপ ভাত রান্না করো।)
+
+### Q: How much does this shirt cost? (এই শার্টের দাম কত?)
+**A:** It costs 800 taka. (এটার দাম ৮০০ টাকা।)
+
+### Q: How much sugar do you want? (তুমি কত চিনি চাও?)
+**A:** I want 2 spoons. (আমি ২ চামচ চাই।)
+
+### Q: How much is the rent? (ভাড়া কত?)
+**A:** The rent is 15,000 taka. (ভাড়া ১৫,০০০ টাকা।)
+
+### Q: How much did you pay? (তুমি কত টাকা দিয়েছো?)
+**A:** I paid 300 taka. (আমি ৩০০ টাকা দিয়েছি।)
+
+### Q: How much do you earn? (তুমি কত আয় করো?)
+**A:** I earn 50,000 taka per month. (আমি মাসে ৫০,০০০ টাকা আয় করি।)
+
+### Q: How much oil do you need? (তোমার কত তেল দরকার?)
+**A:** I need 2 liters. (আমার ২ লিটার দরকার।)
+
+### Q: How much milk do you buy? (তুমি কত দুধ কেনো?)
+**A:** I buy 1 liter daily. (আমি প্রতিদিন ১ লিটার কিনি।)
+
+### Q: How much salt should I add? (আমি কত লবণ দেবো?)
+**A:** Add half a teaspoon. (আধা চা চামচ দাও।)
+
+### Q: How much flour do you have? (তোমার কত আটা আছে?)
+**A:** I have 2 kilograms. (আমার ২ কিলোগ্রাম আছে।)
+
+### Q: How much electricity do you use? (তুমি কত বিদ্যুৎ ব্যবহার করো?)
+**A:** I use 200 units monthly. (আমি মাসে ২০০ ইউনিট ব্যবহার করি।)
+
+### Q: How much gas do you consume? (তুমি কত গ্যাস খরচ করো?)
+**A:** I consume 50 cubic meters. (আমি ৫০ ঘনমিটার খরচ করি।)
+
+### Q: How much internet data do you use? (তুমি কত ইন্টারনেট ডেটা ব্যবহার করো?)
+**A:** I use 10 GB monthly. (আমি মাসে ১০ জিবি ব্যবহার করি।)
+
+### Q: How much space do you need? (তোমার কত জায়গা দরকার?)
+**A:** I need 100 square feet. (আমার ১০০ বর্গফুট দরকার।)
+
+### Q: How much weight can you lift? (তুমি কত ওজন তুলতে পারো?)
+**A:** I can lift 50 kilograms. (আমি ৫০ কিলোগ্রাম তুলতে পারি।)
+
+### Q: How much distance do you walk? (তুমি কত দূরত্ব হাঁটো?)
+**A:** I walk 5 kilometers daily. (আমি প্রতিদিন ৫ কিলোমিটার হাঁটি।)
+
+### Q: How much homework do you have? (তোমার কত বাড়ির কাজ আছে?)
+**A:** I have a lot of homework. (আমার অনেক বাড়ির কাজ আছে।)
+
+### Q: How much experience do you have? (তোমার কত অভিজ্ঞতা আছে?)
+**A:** I have 3 years experience. (আমার ৩ বছরের অভিজ্ঞতা আছে।)
+
+### Q: How much education do you have? (তোমার কত শিক্ষা আছে?)
+**A:** I have a master's degree. (আমার মাস্টার্স ডিগ্রি আছে।)
+
+### Q: How much patience do you have? (তোমার কত ধৈর্য আছে?)
+**A:** I have limited patience. (আমার সীমিত ধৈর্য আছে।)
+
+### Q: How much energy do you have? (তোমার কত শক্তি আছে?)
+**A:** I have lots of energy. (আমার প্রচুর শক্তি আছে।)
+
+### Q: How much confidence do you have? (তোমার কত আত্মবিশ্বাস আছে?)
+**A:** I have full confidence. (আমার পূর্ণ আত্মবিশ্বাস আছে।)
+
+### Q: How much knowledge do you have? (তোমার কত জ্ঞান আছে?)
+**A:** I have basic knowledge. (আমার মৌলিক জ্ঞান আছে।)
+
+### Q: How much skill do you have? (তোমার কত দক্ষতা আছে?)
+**A:** I have good skills. (আমার ভালো দক্ষতা আছে।)
+
+### Q: How much talent do you have? (তোমার কত প্রতিভা আছে?)
+**A:** I have some talent. (আমার কিছু প্রতিভা আছে।)
+
+### Q: How much luck do you have? (তোমার কত ভাগ্য আছে?)
+**A:** I have good luck. (আমার ভালো ভাগ্য আছে।)
+
+### Q: How much hope do you have? (তোমার কত আশা আছে?)
+**A:** I have high hopes. (আমার উচ্চ আশা আছে।)
+
+### Q: How much faith do you have? (তোমার কত বিশ্বাস আছে?)
+**A:** I have strong faith. (আমার দৃঢ় বিশ্বাস আছে।)
+
+### Q: How much love do you have? (তোমার কত ভালোবাসা আছে?)
+**A:** I have endless love. (আমার অসীম ভালোবাসা আছে।)
+
+### Q: How much respect do you have? (তোমার কত সম্মান আছে?)
+**A:** I have great respect. (আমার অনেক সম্মান আছে।)
+
+### Q: How much trust do you have? (তোমার কত বিশ্বাস আছে?)
+**A:** I have complete trust. (আমার সম্পূর্ণ বিশ্বাস আছে।)
+
+### Q: How much support do you have? (তোমার কত সাহায্য আছে?)
+**A:** I have family support. (আমার পারিবারিক সাহায্য আছে।)
+
+### Q: How much freedom do you have? (তোমার কত স্বাধীনতা আছে?)
+**A:** I have full freedom. (আমার পূর্ণ স্বাধীনতা আছে।)
+
+### Q: How much responsibility do you have? (তোমার কত দায়িত্ব আছে?)
+**A:** I have many responsibilities. (আমার অনেক দায়িত্ব আছে।)
+
+### Q: How much pressure do you feel? (তুমি কত চাপ অনুভব করো?)
+**A:** I feel moderate pressure. (আমি মাঝারি চাপ অনুভব করি।)
+
+### Q: How much stress do you have? (তোমার কত মানসিক চাপ আছে?)
+**A:** I have some stress. (আমার কিছু মানসিক চাপ আছে।)
+
+### Q: How much worry do you have? (তোমার কত চিন্তা আছে?)
+**A:** I have little worry. (আমার সামান্য চিন্তা আছে।)
+
+### Q: How much fear do you have? (তোমার কত ভয় আছে?)
+**A:** I have no fear. (আমার কোনো ভয় নেই।)
+
+### Q: How much anger do you have? (তোমার কত রাগ আছে?)
+**A:** I have controlled anger. (আমার নিয়ন্ত্রিত রাগ আছে।)
+
+### Q: How much sadness do you feel? (তুমি কত দুঃখ অনুভব করো?)
+**A:** I feel little sadness. (আমি সামান্য দুঃখ অনুভব করি।)
+
+### Q: How much happiness do you have? (তোমার কত খুশি আছে?)
+**A:** I have immense happiness. (আমার অপরিসীম খুশি আছে।)
+
+### Q: How much peace do you have? (তোমার কত শান্তি আছে?)
+**A:** I have inner peace. (আমার অন্তরের শান্তি আছে।)
+
+### Q: How much satisfaction do you have? (তোমার কত সন্তুষ্টি আছে?)
+**A:** I have complete satisfaction. (আমার সম্পূর্ণ সন্তুষ্টি আছে।)
+
+### Q: How much gratitude do you have? (তোমার কত কৃতজ্ঞতা আছে?)
+**A:** I have deep gratitude. (আমার গভীর কৃতজ্ঞতা আছে।)
+
+### Q: How much appreciation do you have? (তোমার কত প্রশংসা আছে?)
+**A:** I have sincere appreciation. (আমার আন্তরিক প্রশংসা আছে।)
+
+### Q: How much understanding do you have? (তোমার কত বোঝাপড়া আছে?)
+**A:** I have good understanding. (আমার ভালো বোঝাপড়া আছে।)
+
+---
+
+## 9. HOW MANY Questions (কতগুলো/কতজন)
+
+### Q: How many people are there? (কতজন লোক আছে?)
+**A:** There are 10 people. (১০ জন লোক আছে।)
+
+### Q: How many books do you have? (তোমার কতগুলো বই আছে?)
+**A:** I have 50 books. (আমার ৫০টি বই আছে।)
+
+### Q: How many children do you have? (তোমার কতজন সন্তান আছে?)
+**A:** I have 2 children. (আমার ২ জন সন্তান আছে।)
+
+### Q: How many languages can you speak? (তুমি কতগুলো ভাষা বলতে পারো?)
+**A:** I can speak 3 languages. (আমি ৩টি ভাষা বলতে পারি।)
+
+### Q: How many rooms are in your house? (তোমার বাড়িতে কতগুলো ঘর আছে?)
+**A:** There are 5 rooms. (৫টি ঘর আছে।)
+
+### Q: How many cars do you own? (তোমার কতগুলো গাড়ি আছে?)
+**A:** I own 1 car. (আমার ১টি গাড়ি আছে।)
+
+### Q: How many friends do you have? (তোমার কতজন বন্ধু আছে?)
+**A:** I have many friends. (আমার অনেক বন্ধু আছে।)
+
+### Q: How many hours do you work? (তুমি কত ঘন্টা কাজ করো?)
+**A:** I work 8 hours daily. (আমি প্রতিদিন ৮ ঘন্টা কাজ করি।)
+
+### Q: How many days are in a week? (এক সপ্তাহে কতদিন আছে?)
+**A:** There are 7 days. (৭ দিন আছে।)
+
+### Q: How many months are in a year? (এক বছরে কত মাস আছে?)
+**A:** There are 12 months. (১২ মাস আছে।)
+
+### Q: How many students are in your class? (তোমার ক্লাসে কতজন ছাত্র আছে?)
+**A:** There are 30 students. (৩০ জন ছাত্র আছে।)
+
+### Q: How many teachers work here? (এখানে কতজন শিক্ষক কাজ করেন?)
+**A:** 15 teachers work here. (১৫ জন শিক্ষক কাজ করেন।)
+
+### Q: How many computers do you have? (তোমার কতগুলো কম্পিউটার আছে?)
+**A:** I have 2 computers. (আমার ২টি কম্পিউটার আছে।)
+
+### Q: How many phones do you use? (তুমি কতগুলো ফোন ব্যবহার করো?)
+**A:** I use 1 phone. (আমি ১টি ফোন ব্যবহার করি।)
+
+### Q: How many emails do you get daily? (তুমি প্রতিদিন কতগুলো ইমেইল পাও?)
+**A:** I get 20 emails daily. (আমি প্রতিদিন ২০টি ইমেইল পাই।)
+
+### Q: How many meetings do you attend? (তুমি কতগুলো মিটিংয়ে যোগ দাও?)
+**A:** I attend 3 meetings weekly. (আমি সাপ্তাহিক ৩টি মিটিংয়ে যোগ দিই।)
+
+### Q: How many projects are you working on? (তুমি কতগুলো প্রকল্পে কাজ করছো?)
+**A:** I'm working on 2 projects. (আমি ২টি প্রকল্পে কাজ করছি।)
+
+### Q: How many years have you been married? (তুমি কত বছর ধরে বিবাহিত?)
+**A:** I've been married for 10 years. (আমি ১০ বছর ধরে বিবাহিত।)
+
+### Q: How many countries have you visited? (তুমি কতগুলো দেশে গিয়েছো?)
+**A:** I've visited 5 countries. (আমি ৫টি দেশে গিয়েছি।)
+
+### Q: How many cities do you know? (তুমি কতগুলো শহর চেনো?)
+**A:** I know 10 cities. (আমি ১০টি শহর চিনি।)
+
+### Q: How many subjects do you study? (তুমি কতগুলো বিষয় পড়ো?)
+**A:** I study 6 subjects. (আমি ৬টি বিষয় পড়ি।)
+
+### Q: How many exams do you have? (তোমার কতগুলো পরীক্ষা আছে?)
+**A:** I have 4 exams. (আমার ৪টি পরীক্ষা আছে।)
+
+### Q: How many assignments are due? (কতগুলো অ্যাসাইনমেন্ট জমা দিতে হবে?)
+**A:** 3 assignments are due. (৩টি অ্যাসাইনমেন্ট জমা দিতে হবে।)
+
+### Q: How many pages did you read? (তুমি কত পৃষ্ঠা পড়েছো?)
+**A:** I read 50 pages. (আমি ৫০ পৃষ্ঠা পড়েছি।)
+
+### Q: How many chapters are in this book? (এই বইয়ে কতগুলো অধ্যায় আছে?)
+**A:** There are 15 chapters. (১৫টি অধ্যায় আছে।)
+
+### Q: How many questions are in the test? (পরীক্ষায় কতগুলো প্রশ্ন আছে?)
+**A:** There are 100 questions. (১০০টি প্রশ্ন আছে।)
+
+### Q: How many answers did you get right? (তুমি কতগুলো উত্তর সঠিক করেছো?)
+**A:** I got 80 answers right. (আমি ৮০টি উত্তর সঠিক করেছি।)
+
+### Q: How many mistakes did you make? (তুমি কতগুলো ভুল করেছো?)
+**A:** I made 5 mistakes. (আমি ৫টি ভুল করেছি।)
+
+### Q: How many goals did you score? (তুমি কতগুলো গোল করেছো?)
+**A:** I scored 3 goals. (আমি ৩টি গোল করেছি।)
+
+### Q: How many matches did you win? (তুমি কতগুলো ম্যাচ জিতেছো?)
+**A:** I won 7 matches. (আমি ৭টি ম্যাচ জিতেছি।)
+
+### Q: How many games did you lose? (তুমি কতগুলো খেলায় হেরেছো?)
+**A:** I lost 2 games. (আমি ২টি খেলায় হেরেছি।)
+
+### Q: How many points did you earn? (তুমি কত পয়েন্ট অর্জন করেছো?)
+**A:** I earned 150 points. (আমি ১৫০ পয়েন্ট অর্জন করেছি।)
+
+### Q: How many prizes did you win? (তুমি কতগুলো পুরস্কার জিতেছো?)
+**A:** I won 2 prizes. (আমি ২টি পুরস্কার জিতেছি।)
+
+### Q: How many certificates do you have? (তোমার কতগুলো সার্টিফিকেট আছে?)
+**A:** I have 5 certificates. (আমার ৫টি সার্টিফিকেট আছে।)
+
+### Q: How many degrees do you hold? (তোমার কতগুলো ডিগ্রি আছে?)
+**A:** I hold 2 degrees. (আমার ২টি ডিগ্রি আছে।)
+
+### Q: How many skills do you have? (তোমার কতগুলো দক্ষতা আছে?)
+**A:** I have multiple skills. (আমার একাধিক দক্ষতা আছে।)
+
+### Q: How many hobbies do you have? (তোমার কতগুলো শখ আছে?)
+**A:** I have 4 hobbies. (আমার ৪টি শখ আছে।)
+
+### Q: How many pets do you have? (তোমার কতগুলো পোষা প্রাণী আছে?)
+**A:** I have 1 pet. (আমার ১টি পোষা প্রাণী আছে।)
+
+### Q: How many plants do you grow? (তুমি কতগুলো গাছ লাগিয়েছো?)
+**A:** I grow 10 plants. (আমি ১০টি গাছ লাগিয়েছি।)
+
+### Q: How many flowers are in your garden? (তোমার বাগানে কতগুলো ফুল আছে?)
+**A:** There are 20 flowers. (২০টি ফুল আছে।)
+
+### Q: How many trees are around your house? (তোমার বাড়ির চারপাশে কতগুলো গাছ আছে?)
+**A:** There are 8 trees. (৮টি গাছ আছে।)
+
+### Q: How many windows does your house have? (তোমার বাড়িতে কতগুলো জানালা আছে?)
+**A:** My house has 12 windows. (আমার বাড়িতে ১২টি জানালা আছে।)
+
+### Q: How many doors are in your house? (তোমার বাড়িতে কতগুলো দরজা আছে?)
+**A:** There are 6 doors. (৬টি দরজা আছে।)
+
+### Q: How many stairs do you climb daily? (তুমি প্রতিদিন কতগুলো সিঁড়ি বেয়ে ওঠো?)
+**A:** I climb 50 stairs daily. (আমি প্রতিদিন ৫০টি সিঁড়ি বেয়ে উঠি।)
+
+### Q: How many floors does your building have? (তোমার ভবনে কতগুলো তলা আছে?)
+**A:** My building has 10 floors. (আমার ভবনে ১০টি তলা আছে।)
+
+### Q: How many elevators are there? (কতগুলো লিফট আছে?)
+**A:** There are 2 elevators. (২টি লিফট আছে।)
+
+### Q: How many restaurants are nearby? (কাছাকাছি কতগুলো রেস্তোরাঁ আছে?)
+**A:** There are 5 restaurants nearby. (কাছাকাছি ৫টি রেস্তোরাঁ আছে।)
+
+### Q: How many shops are in this area? (এই এলাকায় কতগুলো দোকান আছে?)
+**A:** There are 25 shops. (২৫টি দোকান আছে।)
+
+### Q: How many banks are in your city? (তোমার শহরে কতগুলো ব্যাংক আছে?)
+**A:** There are 15 banks. (১৫টি ব্যাংক আছে।)
+
+### Q: How many hospitals are there? (কতগুলো হাসপাতাল আছে?)
+**A:** There are 3 hospitals. (৩টি হাসপাতাল আছে।)
+
+### Q: How many schools are in your area? (তোমার এলাকায় কতগুলো স্কুল আছে?)
+**A:** There are 8 schools. (৮টি স্কুল আছে।)
+
+### Q: How many universities are in your city? (তোমার শহরে কতগুলো বিশ্ববিদ্যালয় আছে?)
+**A:** There are 4 universities. (৪টি বিশ্ববিদ্যালয় আছে।)
+
+---
+
+## Contributing
+
+Feel free to contribute to this guide by submitting pull requests or opening issues.
+
+## License
+
+This guide is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
