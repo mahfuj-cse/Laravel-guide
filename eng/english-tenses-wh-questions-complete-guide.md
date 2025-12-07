@@ -4,16 +4,16 @@
 
 | #️⃣ | **Topic** | **Description** |
 |---|-----------|----------------|
-| 1️⃣ | [Present Tense](#1️⃣-present-tense) | Simple, Continuous, Perfect, Perfect Continuous |
-| 2️⃣ | [Past Tense](#2️⃣-past-tense) | Simple, Continuous, Perfect, Perfect Continuous |
-| 3️⃣ | [Future Tense](#3️⃣-future-tense) | Simple, Continuous, Perfect, Perfect Continuous |
+| 1️⃣ | [Present Tense + WH Questions](#1️⃣-present-tense--wh-questions) | Simple, Continuous, Perfect, Perfect Continuous + WH |
+| 2️⃣ | [Past Tense + WH Questions](#2️⃣-past-tense--wh-questions) | Simple, Continuous, Perfect, Perfect Continuous + WH |
+| 3️⃣ | [Future Tense + WH Questions](#3️⃣-future-tense--wh-questions) | Simple, Continuous, Perfect, Perfect Continuous + WH |
 | 4️⃣ | [WH Questions](#4️⃣-wh-questions) | What, Where, When, Who, Why, How |
 | 5️⃣ | [Practice Questions](#5️⃣-practice-questions) | 500+ Questions with Answers |
 | 6️⃣ | [Common Mistakes](#6️⃣-common-mistakes) | Typical Errors & Corrections |
 
 ---
 
-## 1️⃣ Present Tense
+## 1️⃣ Present Tense + WH Questions
 
 ### 🔹 Present Simple (বর্তমান সাধারণ)
 
@@ -148,9 +148,59 @@ It has been raining since yesterday. (গতকাল থেকে বৃষ্�
 They have been living in this house for 10 years. (তারা ১০ বছর ধরে এই বাড়িতে থাকছে)
 ```
 
+### 🔹 Present Tense WH Questions
+
+#### What Questions (Present):
+```
+What do you do? (তুমি কি কাজ করো?) → I am a teacher.
+What are you doing? (তুমি কি করছো?) → I am reading.
+What have you done? (তুমি কি করেছো?) → I have finished my work.
+What have you been doing? (তুমি কি করে আসছো?) → I have been studying.
+```
+
+#### Where Questions (Present):
+```
+Where do you live? (তুমি কোথায় থাকো?) → I live in Dhaka.
+Where are you going? (তুমি কোথায় যাচ্ছো?) → I am going to school.
+Where have you been? (তুমি কোথায় গিয়েছিলে?) → I have been to the market.
+Where have you been working? (তুমি কোথায় কাজ করে আসছো?) → I have been working at home.
+```
+
+#### When Questions (Present):
+```
+When do you wake up? (তুমি কখন ঘুম থেকে ওঠো?) → I wake up at 6 AM.
+When are you coming? (তুমি কখন আসছো?) → I am coming now.
+When have you finished? (তুমি কখন শেষ করেছো?) → I have just finished.
+When have you been studying? (তুমি কখন থেকে পড়ে আসছো?) → I have been studying since morning.
+```
+
+#### Who Questions (Present):
+```
+Who teaches you? (তোমাকে কে পড়ায়?) → Mr. Rahman teaches me.
+Who is calling? (কে ফোন করছে?) → My mother is calling.
+Who has helped you? (তোমাকে কে সাহায্য করেছে?) → My friend has helped me.
+Who has been helping you? (তোমাকে কে সাহায্য করে আসছে?) → My brother has been helping me.
+```
+
+#### Why Questions (Present):
+```
+Why do you study English? (তুমি কেন ইংরেজি পড়ো?) → Because it's important.
+Why are you crying? (তুমি কেন কাঁদছো?) → Because I am sad.
+Why have you come here? (তুমি এখানে কেন এসেছো?) → I have come to meet you.
+Why have you been waiting? (তুমি কেন অপেক্ষা করে আসছো?) → I have been waiting for the bus.
+```
+
+#### How Questions (Present):
+```
+How do you go to work? (তুমি কিভাবে কাজে যাও?) → I go by bus.
+How are you feeling? (তুমি কেমন অনুভব করছো?) → I am feeling good.
+How have you learned this? (তুমি এটা কিভাবে শিখেছো?) → I have learned from books.
+How have you been managing? (তুমি কিভাবে সামলে আসছো?) → I have been managing well.
+```
+
 ---
 
-## 2️⃣ Past Tense
+## 2️⃣ Past Tense + WH Questions
 
 ### 🔹 Past Simple (অতীত সাধারণ)
 
@@ -233,9 +283,59 @@ The movie had started when we reached the cinema. (আমরা সিনেম�
 She had never seen snow before visiting Canada. (কানাডায় যাওয়ার আগে সে কখনো বরফ দেখেনি)
 ```
 
+### 🔹 Past Tense WH Questions
+
+#### What Questions (Past):
+```
+What did you do yesterday? (তুমি গতকাল কি করেছিলে?) → I went to school.
+What were you doing at 8 PM? (রাত ৮টায় তুমি কি করছিলে?) → I was watching TV.
+What had you done before I came? (আমি আসার আগে তুমি কি করেছিলে?) → I had finished my homework.
+What had you been doing? (তুমি কি করে আসছিলে?) → I had been reading.
+```
+
+#### Where Questions (Past):
+```
+Where did you go last week? (গত সপ্তাহে তুমি কোথায় গিয়েছিলে?) → I went to Cox's Bazar.
+Where were you living in 2020? (২০২০ সালে তুমি কোথায় থাকতে?) → I was living in Chittagong.
+Where had you been before coming here? (এখানে আসার আগে তুমি কোথায় গিয়েছিলে?) → I had been to the market.
+Where had you been working? (তুমি কোথায় কাজ করছিলে?) → I had been working in a bank.
+```
+
+#### When Questions (Past):
+```
+When did you arrive? (তুমি কখন পৌঁছেছিলে?) → I arrived yesterday.
+When were you sleeping? (তুমি কখন ঘুমাচ্ছিলে?) → I was sleeping at 10 PM.
+When had you finished your work? (তুমি কখন তোমার কাজ শেষ করেছিলে?) → I had finished before 5 PM.
+When had you been studying? (তুমি কখন থেকে পড়ছিলে?) → I had been studying since morning.
+```
+
+#### Who Questions (Past):
+```
+Who called you yesterday? (গতকাল তোমাকে কে ফোন করেছিল?) → My friend called me.
+Who was helping you? (তোমাকে কে সাহায্য করছিল?) → My brother was helping me.
+Who had taught you English? (তোমাকে কে ইংরেজি শেখায়?) → Mr. Ahmed had taught me.
+Who had been waiting for you? (তোমার জন্য কে অপেক্ষা করছিল?) → My mother had been waiting.
+```
+
+#### Why Questions (Past):
+```
+Why did you leave early? (তুমি কেন তাড়াতাড়ি চলে গেলে?) → Because I was sick.
+Why were you crying? (তুমি কেন কাঁদছিলে?) → Because I lost my phone.
+Why had you come here? (তুমি এখানে কেন এসেছিলে?) → I had come to meet my friend.
+Why had you been studying so hard? (তুমি কেন এত কঠিন পড়াশোনা করছিলে?) → Because I had an exam.
+```
+
+#### How Questions (Past):
+```
+How did you come here? (তুমি এখানে কিভাবে এসেছিলে?) → I came by rickshaw.
+How were you feeling? (তুমি কেমন অনুভব করছিলে?) → I was feeling tired.
+How had you solved the problem? (তুমি কিভাবে সমস্যাটি সমাধান করেছিলে?) → I had solved it with help.
+How had you been learning English? (তুমি কিভাবে ইংরেজি শিখছিলে?) → I had been learning from books.
+```
+
 ---
 
-## 3️⃣ Future Tense
+## 3️⃣ Future Tense + WH Questions
 
 ### 🔹 Future Simple (ভবিষ্যৎ সাধারণ)
 
@@ -271,6 +371,91 @@ They will graduate next year. (তারা আগামী বছর স্ন�
 ```
 ✅ I will be eating rice at 8 PM. (রাত ৮টায় আমি ভাত খেতে থাকবো)
 ✅ She will be working tomorrow morning. (কাল সকালে সে কাজ করতে থাকবে)
+```
+
+#### Daily Use Examples:
+```
+I will be traveling next month. (আগামী মাসে আমি ভ্রমণ করতে থাকবো)
+She will be studying at this time tomorrow. (কাল এই সময়ে সে পড়াশোনা করতে থাকবে)
+We will be waiting for you at the station. (আমরা স্টেশনে তোমার জন্য অপেক্ষা করতে থাকবো)
+They will be playing cricket at 5 PM. (বিকাল ৫টায় তারা ক্রিকেট খেলতে থাকবে)
+It will be raining this evening. (আজ সন্ধ্যায় বৃষ্টি হতে থাকবে)
+```
+
+### 🔹 Future Perfect (ভবিষ্যৎ পূর্ণ)
+
+#### Structure:
+- **Positive**: Subject + will + have + V3 + Object
+- **Negative**: Subject + will + not + have + V3 + Object
+- **Question**: Will + Subject + have + V3 + Object?
+
+#### Examples:
+```
+✅ I will have finished my work by 6 PM. (সন্ধ্যা ৬টার মধ্যে আমি আমার কাজ শেষ করে ফেলবো)
+✅ She will have graduated by next year. (আগামী বছরের মধ্যে সে স্নাতক হয়ে যাবে)
+```
+
+### 🔹 Future Perfect Continuous (ভবিষ্যৎ পূর্ণ চলমান)
+
+#### Structure:
+- **Positive**: Subject + will + have + been + V1+ing + Object
+- **Negative**: Subject + will + not + have + been + V1+ing + Object
+- **Question**: Will + Subject + have + been + V1+ing + Object?
+
+#### Examples:
+```
+✅ I will have been working here for 5 years by December. (ডিসেম্বরের মধ্যে আমি এখানে ৫ বছর ধরে কাজ করতে থাকবো)
+✅ She will have been studying for 3 hours by then. (তখন পর্যন্ত সে ৩ ঘন্টা ধরে পড়তে থাকবে)
+```
+
+### 🔹 Future Tense WH Questions
+
+#### What Questions (Future):
+```
+What will you do tomorrow? (তুমি কাল কি করবে?) → I will go shopping.
+What will you be doing at 8 PM? (রাত ৮টায় তুমি কি করতে থাকবে?) → I will be watching TV.
+What will you have done by evening? (সন্ধ্যার মধ্যে তুমি কি করে ফেলবে?) → I will have finished my work.
+What will you have been doing? (তুমি কি করতে থাকবে?) → I will have been studying.
+```
+
+#### Where Questions (Future):
+```
+Where will you go next week? (আগামী সপ্তাহে তুমি কোথায় যাবে?) → I will go to Sylhet.
+Where will you be living next year? (আগামী বছর তুমি কোথায় থাকবে?) → I will be living in Canada.
+Where will you have gone by then? (তখন পর্যন্ত তুমি কোথায় গিয়ে থাকবে?) → I will have gone to London.
+Where will you have been working? (তুমি কোথায় কাজ করতে থাকবে?) → I will have been working in Dubai.
+```
+
+#### When Questions (Future):
+```
+When will you come back? (তুমি কখন ফিরে আসবে?) → I will come back next month.
+When will you be traveling? (তুমি কখন ভ্রমণ করতে থাকবে?) → I will be traveling in December.
+When will you have finished? (তুমি কখন শেষ করে ফেলবে?) → I will have finished by 5 PM.
+When will you have been studying? (তুমি কখন থেকে পড়তে থাকবে?) → I will have been studying since morning.
+```
+
+#### Who Questions (Future):
+```
+Who will help you? (তোমাকে কে সাহায্য করবে?) → My brother will help me.
+Who will be coming to the party? (পার্টিতে কে আসতে থাকবে?) → All my friends will be coming.
+Who will have called you? (তোমাকে কে ফোন করে থাকবে?) → My teacher will have called me.
+Who will have been waiting? (কে অপেক্ষা করতে থাকবে?) → My parents will have been waiting.
+```
+
+#### Why Questions (Future):
+```
+Why will you leave? (তুমি কেন চলে যাবে?) → Because I got a new job.
+Why will you be studying late? (তুমি কেন দেরি করে পড়তে থাকবে?) → Because I have an exam tomorrow.
+Why will you have quit? (তুমি কেন ছেড়ে দেবে?) → Because I will have found a better job.
+Why will you have been working so hard? (তুমি কেন এত কঠিন কাজ করতে থাকবে?) → Because I will have been preparing for promotion.
+```
+
+#### How Questions (Future):
+```
+How will you go there? (তুমি সেখানে কিভাবে যাবে?) → I will go by plane.
+How will you be managing? (তুমি কিভাবে সামলাতে থাকবে?) → I will be managing with help.
+How will you have learned this? (তুমি এটা কিভাবে শিখে ফেলবে?) → I will have learned from practice.
+How will you have been studying? (তুমি কিভাবে পড়তে থাকবে?) → I will have been studying online.
 ```
 
 ---
