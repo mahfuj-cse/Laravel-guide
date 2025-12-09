@@ -551,6 +551,270 @@ What + auxiliary verb + subject + main verb?
 9. **How far is your house?** (তোমার বাড়ি কত দূর?) → My house is 5 kilometers away.
 10. **How often do you exercise?** (তুমি কত ঘন ঘন ব্যায়াম করো?) → I exercise three times a week.
 
+### 🔹 WHICH (কোনটি)
+
+#### 50 Examples with Answers:
+1. **Which book do you want?** (তুমি কোন বইটি চাও?) → I want the red one.
+2. **Which color do you prefer?** (তুমি কোন রঙ পছন্দ করো?) → I prefer blue.
+3. **Which bus goes to Dhaka?** (কোন বাস ঢাকায় যায়?) → Bus number 12 goes to Dhaka.
+4. **Which one is yours?** (কোনটি তোমার?) → The black bag is mine.
+5. **Which restaurant shall we go to?** (আমরা কোন রেস্তোরাঁয় যাবো?) → Let's go to Star Kabab.
+6. **Which subject do you like most?** (তুমি কোন বিষয় সবচেয়ে পছন্দ করো?) → I like English most.
+7. **Which way is the station?** (স্টেশন কোন দিকে?) → The station is that way.
+8. **Which phone is better?** (কোন ফোনটি ভালো?) → The Samsung one is better.
+9. **Which day is your exam?** (তোমার পরীক্ষা কোন দিন?) → My exam is on Monday.
+10. **Which movie did you watch?** (তুমি কোন সিনেমা দেখেছো?) → I watched Avengers.
+
+### 🔹 WHOSE (কার)
+
+#### 50 Examples with Answers:
+1. **Whose book is this?** (এটা কার বই?) → This is my book.
+2. **Whose phone is ringing?** (কার ফোন বাজছে?) → It's Karim's phone.
+3. **Whose car is parked outside?** (বাইরে কার গাড়ি পার্ক করা?) → It's my father's car.
+4. **Whose turn is it?** (কার পালা?) → It's your turn.
+5. **Whose idea was this?** (এটা কার আইডিয়া ছিল?) → It was Rahim's idea.
+6. **Whose bag did you take?** (তুমি কার ব্যাগ নিয়েছো?) → I took my sister's bag.
+7. **Whose house are we going to?** (আমরা কার বাড়িতে যাচ্ছি?) → We are going to uncle's house.
+8. **Whose responsibility is this?** (এটা কার দায়িত্ব?) → This is my responsibility.
+9. **Whose pen can I borrow?** (আমি কার কলম ধার নিতে পারি?) → You can borrow mine.
+10. **Whose fault was it?** (এটা কার দোষ ছিল?) → It was my fault.
+
+### 🔹 WHOM (কাকে - Object form)
+
+#### 30 Examples with Answers:
+1. **Whom did you meet?** (তুমি কার সাথে দেখা করেছো?) → I met my teacher.
+2. **Whom are you calling?** (তুমি কাকে ফোন করছো?) → I am calling my mother.
+3. **Whom should I ask?** (আমি কাকে জিজ্ঞাসা করবো?) → You should ask the manager.
+4. **Whom did you invite?** (তুমি কাকে আমন্ত্রণ জানিয়েছো?) → I invited all my friends.
+5. **Whom do you trust?** (তুমি কাকে বিশ্বাস করো?) → I trust my parents.
+6. **To whom did you give the letter?** (তুমি চিঠিটি কাকে দিয়েছো?) → I gave it to Rahim.
+7. **For whom are you waiting?** (তুমি কার জন্য অপেক্ষা করছো?) → I am waiting for my friend.
+8. **With whom are you going?** (তুমি কার সাথে যাচ্ছো?) → I am going with my brother.
+9. **Whom did you help?** (তুমি কাকে সাহায্য করেছো?) → I helped an old man.
+10. **Whom will you marry?** (তুমি কাকে বিয়ে করবে?) → I will marry someone I love.
+
+---
+
+## 🗣️ Daily Life Conversation WH Questions (200+ New Questions)
+
+### 🏠 At Home (বাড়িতে)
+
+#### Morning Routine:
+```
+1. What time did you wake up? (তুমি কখন ঘুম থেকে উঠেছো?) → I woke up at 6 AM.
+2. What did you have for breakfast? (তুমি নাস্তায় কি খেয়েছো?) → I had bread and eggs.
+3. Where is my shirt? (আমার শার্ট কোথায়?) → Your shirt is in the closet.
+4. Who is in the bathroom? (বাথরুমে কে আছে?) → Your brother is in the bathroom.
+5. When will breakfast be ready? (নাস্তা কখন তৈরি হবে?) → Breakfast will be ready in 10 minutes.
+6. Why are you still sleeping? (তুমি এখনো কেন ঘুমাচ্ছো?) → Because I'm tired.
+7. How do you like your tea? (তুমি চা কেমন পছন্দ করো?) → I like it with milk and sugar.
+8. Which dress should I wear? (আমি কোন পোশাক পরবো?) → Wear the blue one.
+9. Whose shoes are these? (এগুলো কার জুতা?) → These are father's shoes.
+10. What are you looking for? (তুমি কি খুঁজছো?) → I'm looking for my keys.
+```
+
+#### Family Conversations:
+```
+11. Where is mom? (মা কোথায়?) → Mom is in the kitchen.
+12. What is dad doing? (বাবা কি করছেন?) → Dad is reading the newspaper.
+13. When will you come home? (তুমি কখন বাড়ি আসবে?) → I will come home at 6 PM.
+14. Who called me? (আমাকে কে ফোন করেছে?) → Your friend called you.
+15. Why is the baby crying? (বাচ্চা কেন কাঁদছে?) → The baby is hungry.
+16. How was your day? (তোমার দিন কেমন ছিল?) → My day was good.
+17. What's for dinner? (রাতের খাবারে কি আছে?) → We're having rice and fish curry.
+18. Where did you put my phone? (তুমি আমার ফোন কোথায় রেখেছো?) → I put it on the table.
+19. When is your sister coming? (তোমার বোন কখন আসছে?) → She's coming tomorrow.
+20. Which TV channel do you want to watch? (তুমি কোন টিভি চ্যানেল দেখতে চাও?) → I want to watch Channel i.
+```
+
+### 🏫 At School/College (স্কুল/কলেজে)
+
+#### Classroom Questions:
+```
+21. What is today's lesson? (আজকের পাঠ কি?) → Today's lesson is about tenses.
+22. Where is the library? (লাইব্রেরি কোথায়?) → The library is on the second floor.
+23. When is the exam? (পরীক্ষা কখন?) → The exam is next week.
+24. Who is your class teacher? (তোমার ক্লাস টিচার কে?) → Mr. Rahman is my class teacher.
+25. Why were you absent yesterday? (তুমি গতকাল কেন অনুপস্থিত ছিলে?) → I was sick.
+26. How do you solve this problem? (তুমি এই সমস্যা কিভাবে সমাধান করো?) → I solve it step by step.
+27. Which subject is your favorite? (কোন বিষয় তোমার প্রিয়?) → English is my favorite subject.
+28. Whose notebook is this? (এটা কার নোটবুক?) → This is Rahim's notebook.
+29. What time does school start? (স্কুল কখন শুরু হয়?) → School starts at 8 AM.
+30. Where can I find the principal? (আমি প্রিন্সিপালকে কোথায় পাবো?) → You can find him in his office.
+```
+
+#### Study Related:
+```
+31. What homework do we have? (আমাদের কি হোমওয়ার্ক আছে?) → We have math homework.
+32. When is the assignment due? (অ্যাসাইনমেন্ট কখন জমা দিতে হবে?) → It's due on Friday.
+33. Who can help me with this? (এটায় আমাকে কে সাহায্য করতে পারে?) → The teacher can help you.
+34. Why is this important? (এটা কেন গুরুত্বপূর্ণ?) → Because it will be in the exam.
+35. How many pages should I write? (আমি কত পৃষ্ঠা লিখবো?) → You should write 5 pages.
+36. Which book should I read? (আমি কোন বই পড়বো?) → You should read this textbook.
+37. Where are the study materials? (পড়ার উপকরণ কোথায়?) → They are in the library.
+38. What does this word mean? (এই শব্দের অর্থ কি?) → It means "beautiful".
+39. When will we get our results? (আমরা কখন আমাদের ফলাফল পাবো?) → We will get results next month.
+40. How can I improve my English? (আমি কিভাবে আমার ইংরেজি উন্নত করতে পারি?) → Practice speaking daily.
+```
+
+### 🛒 Shopping (কেনাকাটা)
+
+#### At the Market:
+```
+41. What do you want to buy? (তুমি কি কিনতে চাও?) → I want to buy vegetables.
+42. Where is the grocery store? (মুদি দোকান কোথায়?) → It's on the main road.
+43. When does the market open? (বাজার কখন খোলে?) → The market opens at 8 AM.
+44. Who is the shopkeeper? (দোকানদার কে?) → Mr. Karim is the shopkeeper.
+45. Why is this so expensive? (এটা এত দামি কেন?) → Because it's imported.
+46. How much is this? (এটার দাম কত?) → It's 200 taka.
+47. Which one is fresh? (কোনটি তাজা?) → The green ones are fresh.
+48. Whose shop is this? (এটা কার দোকান?) → This is Rahim's shop.
+49. What's the price of rice? (চালের দাম কত?) → Rice is 60 taka per kg.
+50. Where can I find milk? (আমি দুধ কোথায় পাবো?) → You can find milk in the dairy section.
+```
+
+#### Bargaining:
+```
+51. How much discount can you give? (তুমি কত ছাড় দিতে পারো?) → I can give 10% discount.
+52. What's your best price? (তোমার সেরা দাম কত?) → My best price is 500 taka.
+53. When will you restock? (তুমি কখন নতুন মাল আনবে?) → I will restock tomorrow.
+54. Why is the price high? (দাম বেশি কেন?) → Because of high demand.
+55. Which brand is better? (কোন ব্র্যান্ড ভালো?) → This brand is better quality.
+56. Where is the payment counter? (পেমেন্ট কাউন্টার কোথায়?) → It's at the front.
+57. What payment methods do you accept? (তুমি কি পেমেন্ট পদ্ধতি গ্রহণ করো?) → We accept cash and cards.
+58. How long is the warranty? (ওয়ারেন্টি কত দিনের?) → The warranty is for 1 year.
+59. When can I return this? (আমি এটা কখন ফেরত দিতে পারি?) → You can return within 7 days.
+60. Who should I talk to for complaints? (অভিযোগের জন্য আমি কার সাথে কথা বলবো?) → Talk to the manager.
+```
+
+### 🍽️ At Restaurant (রেস্তোরাঁয়)
+
+#### Ordering Food:
+```
+61. What would you like to order? (তুমি কি অর্ডার করতে চাও?) → I'd like chicken biryani.
+62. Where can we sit? (আমরা কোথায় বসতে পারি?) → You can sit at that table.
+63. When will the food be ready? (খাবার কখন তৈরি হবে?) → It will be ready in 15 minutes.
+64. Who is our waiter? (আমাদের ওয়েটার কে?) → I am your waiter.
+65. Why is it taking so long? (এত সময় লাগছে কেন?) → Because we're very busy.
+66. How spicy is this dish? (এই খাবার কতটা ঝাল?) → It's medium spicy.
+67. Which dish is your specialty? (কোন খাবার তোমাদের বিশেষত্ব?) → Our biryani is our specialty.
+68. What drinks do you have? (তোমাদের কি পানীয় আছে?) → We have juice, tea, and soft drinks.
+69. Where is the washroom? (ওয়াশরুম কোথায়?) → The washroom is downstairs.
+70. How much is the bill? (বিল কত?) → The bill is 800 taka.
+```
+
+### 🚗 Transportation (যাতায়াত)
+
+#### Taking a Ride:
+```
+71. Where are you going? (তুমি কোথায় যাচ্ছো?) → I'm going to Gulshan.
+72. What's the fare? (ভাড়া কত?) → The fare is 100 taka.
+73. When will we reach? (আমরা কখন পৌঁছাবো?) → We will reach in 30 minutes.
+74. Which bus goes to Mirpur? (কোন বাস মিরপুরে যায়?) → Bus number 7 goes to Mirpur.
+75. Why is there so much traffic? (এত ট্রাফিক কেন?) → Because it's rush hour.
+76. How far is the station? (স্টেশন কত দূর?) → The station is 2 km away.
+77. Where should I get off? (আমি কোথায় নামবো?) → You should get off at the next stop.
+78. What time does the train leave? (ট্রেন কখন ছাড়ে?) → The train leaves at 9 AM.
+79. Who is driving? (কে গাড়ি চালাচ্ছে?) → My brother is driving.
+80. When is the next bus? (পরবর্তী বাস কখন?) → The next bus is in 10 minutes.
+```
+
+### 🏥 At Doctor's (ডাক্তারের কাছে)
+
+#### Medical Consultation:
+```
+81. What's wrong with you? (তোমার কি সমস্যা?) → I have a fever.
+82. Where does it hurt? (কোথায় ব্যথা করছে?) → My head hurts.
+83. When did this start? (এটা কখন শুরু হয়েছে?) → It started yesterday.
+84. Who is your doctor? (তোমার ডাক্তার কে?) → Dr. Ahmed is my doctor.
+85. Why do you have pain? (তোমার ব্যথা কেন?) → Because I fell down.
+86. How often should I take this medicine? (আমি এই ওষুধ কত ঘন ঘন খাবো?) → Take it three times a day.
+87. Which pharmacy is nearby? (কোন ফার্মেসি কাছাকাছি?) → There's one across the street.
+88. What should I avoid? (আমি কি এড়িয়ে চলবো?) → Avoid cold drinks.
+89. When should I come back? (আমি কখন আবার আসবো?) → Come back after a week.
+90. How much is the consultation fee? (পরামর্শ ফি কত?) → The fee is 500 taka.
+```
+
+### 📱 Phone Conversations (ফোনে কথা)
+
+#### Making Calls:
+```
+91. Who is calling? (কে ফোন করছে?) → This is Karim calling.
+92. What's your phone number? (তোমার ফোন নম্বর কত?) → My number is 01712345678.
+93. When can I call you? (আমি তোমাকে কখন ফোন করতে পারি?) → You can call me after 7 PM.
+94. Where are you calling from? (তুমি কোথা থেকে ফোন করছো?) → I'm calling from home.
+95. Why didn't you answer my call? (তুমি আমার ফোন ধরোনি কেন?) → I was in a meeting.
+96. How can I reach you? (আমি তোমার সাথে কিভাবে যোগাযোগ করতে পারি?) → You can call or text me.
+97. Which network do you use? (তুমি কোন নেটওয়ার্ক ব্যবহার করো?) → I use Grameenphone.
+98. What's the matter? (কি ব্যাপার?) → I need your help.
+99. When will you call back? (তুমি কখন আবার ফোন করবে?) → I'll call back in an hour.
+100. Who gave you my number? (তোমাকে আমার নম্বর কে দিয়েছে?) → Your friend gave it to me.
+```
+
+### 💼 At Work/Office (কর্মস্থলে)
+
+#### Office Conversations:
+```
+101. What's your designation? (তোমার পদবী কি?) → I'm a manager.
+102. Where is your office? (তোমার অফিস কোথায়?) → My office is in Motijheel.
+103. When do you start work? (তুমি কখন কাজ শুরু করো?) → I start work at 9 AM.
+104. Who is your boss? (তোমার বস কে?) → Mr. Rahman is my boss.
+105. Why are you late? (তুমি দেরি করেছো কেন?) → I'm late because of traffic.
+106. How long have you been working here? (তুমি এখানে কতদিন ধরে কাজ করছো?) → I've been working here for 3 years.
+107. Which department are you in? (তুমি কোন বিভাগে আছো?) → I'm in the marketing department.
+108. What are your working hours? (তোমার কাজের সময় কি?) → My working hours are 9 to 5.
+109. When is the meeting? (মিটিং কখন?) → The meeting is at 2 PM.
+110. Where should I submit this report? (আমি এই রিপোর্ট কোথায় জমা দেবো?) → Submit it to the manager.
+```
+
+### 🎉 Social Events (সামাজিক অনুষ্ঠান)
+
+#### Party/Gathering:
+```
+111. What's the occasion? (উপলক্ষ কি?) → It's my birthday party.
+112. Where is the party? (পার্টি কোথায়?) → The party is at my house.
+113. When should I come? (আমি কখন আসবো?) → Come at 7 PM.
+114. Who else is coming? (আর কে কে আসছে?) → All our friends are coming.
+115. Why wasn't I invited? (আমাকে আমন্ত্রণ জানানো হয়নি কেন?) → Sorry, I forgot to invite you.
+116. How should I dress? (আমি কেমন পোশাক পরবো?) → Dress casually.
+117. Which gift should I bring? (আমি কোন উপহার নিয়ে আসবো?) → Bring anything you like.
+118. What food will be served? (কি খাবার পরিবেশন করা হবে?) → We'll have biryani and desserts.
+119. When will it end? (এটা কখন শেষ হবে?) → It will end around midnight.
+120. How many people are invited? (কতজন লোক আমন্ত্রিত?) → About 50 people are invited.
+```
+
+### 🏨 Hotel/Accommodation (হোটেল/থাকার জায়গা)
+
+#### Hotel Booking:
+```
+121. What type of room do you want? (তুমি কি ধরনের রুম চাও?) → I want a single room.
+122. Where is the hotel located? (হোটেল কোথায় অবস্থিত?) → It's near the airport.
+123. When will you check in? (তুমি কখন চেক ইন করবে?) → I'll check in tomorrow.
+124. Who made the reservation? (রিজার্ভেশন কে করেছে?) → I made it online.
+125. Why is the room so expensive? (রুম এত দামি কেন?) → Because it's peak season.
+126. How many nights will you stay? (তুমি কত রাত থাকবে?) → I'll stay for 3 nights.
+127. Which floor is my room on? (আমার রুম কোন তলায়?) → Your room is on the 5th floor.
+128. What amenities are included? (কি কি সুবিধা অন্তর্ভুক্ত?) → WiFi and breakfast are included.
+129. When is checkout time? (চেকআউট টাইম কখন?) → Checkout time is 12 PM.
+130. Where can I park my car? (আমি আমার গাড়ি কোথায় পার্ক করবো?) → You can park in the basement.
+```
+
+### 🎓 Job Interview (চাকরির ইন্টারভিউ)
+
+#### Interview Questions:
+```
+131. What's your qualification? (তোমার যোগ্যতা কি?) → I have a bachelor's degree.
+132. Where did you study? (তুমি কোথায় পড়াশোনা করেছো?) → I studied at Dhaka University.
+133. When can you start? (তুমি কখন শুরু করতে পারবে?) → I can start next month.
+134. Who was your previous employer? (তোমার আগের নিয়োগকর্তা কে ছিল?) → I worked at ABC Company.
+135. Why do you want this job? (তুমি এই চাকরি কেন চাও?) → Because it matches my skills.
+136. How much salary do you expect? (তুমি কত বেতন আশা করো?) → I expect 50,000 taka per month.
+137. Which skills do you have? (তোমার কি কি দক্ষতা আছে?) → I have computer and communication skills.
+138. What's your strength? (তোমার শক্তি কি?) → My strength is problem-solving.
+139. When will we hear from you? (আমরা তোমার কাছ থেকে কখন শুনবো?) → You'll hear within a week.
+140. Where do you see yourself in 5 years? (৫ বছরে তুমি নিজেকে কোথায় দেখো?) → I see myself as a senior manager.
+```
+
 ---
 
 ## 5️⃣ Practice Questions (500+ Questions)
