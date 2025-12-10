@@ -625,6 +625,26 @@ What + auxiliary verb + subject + main verb?
 18. Where did you put my phone? (তুমি আমার ফোন কোথায় রেখেছো?) → I put it on the table.
 19. When is your sister coming? (তোমার বোন কখন আসছে?) → She's coming tomorrow.
 20. Which TV channel do you want to watch? (তুমি কোন টিভি চ্যানেল দেখতে চাও?) → I want to watch Channel i.
+21. What time do you go to bed? (তুমি কখন ঘুমাতে যাও?) → I go to bed at 10 PM.
+22. Where are the kids playing? (বাচ্চারা কোথায় খেলছে?) → They're playing in the backyard.
+23. When will dad come back? (বাবা কখন ফিরে আসবে?) → He'll come back at 7 PM.
+24. Who is cooking today? (আজ কে রান্না করছে?) → Mom is cooking today.
+25. Why is the door locked? (দরজা কেন তালাবন্ধ?) → Because everyone went out.
+26. How many guests are coming? (কতজন অতিথি আসছে?) → Five guests are coming.
+27. What should I bring from the market? (আমি বাজার থেকে কি আনবো?) → Bring some vegetables and fish.
+28. Where did you keep the remote? (তুমি রিমোট কোথায় রেখেছো?) → I kept it on the sofa.
+29. When is grandma visiting? (দাদি কখন বেড়াতে আসছে?) → She's visiting next week.
+30. Which room should I clean first? (আমি কোন রুম আগে পরিষ্কার করবো?) → Clean the living room first.
+31. What are you watching? (তুমি কি দেখছো?) → I'm watching a drama.
+32. Where is my wallet? (আমার মানিব্যাগ কোথায়?) → Your wallet is in your bag.
+33. When did the electricity go? (বিদ্যুৎ কখন চলে গেছে?) → It went an hour ago.
+34. Who ate my chocolate? (আমার চকলেট কে খেয়েছে?) → Your brother ate it.
+35. Why are you upset? (তুমি কেন মন খারাপ করেছো?) → Because I lost my favorite pen.
+36. How long will you stay home? (তুমি কতক্ষণ বাড়িতে থাকবে?) → I'll stay until evening.
+37. What's the WiFi password? (ওয়াইফাই পাসওয়ার্ড কি?) → The password is written on the router.
+38. Where should I put these bags? (আমি এই ব্যাগগুলো কোথায় রাখবো?) → Put them in the bedroom.
+39. When will the plumber come? (প্লাম্বার কখন আসবে?) → He'll come tomorrow morning.
+40. Which dress looks better on me? (কোন পোশাকটি আমার উপর ভালো লাগছে?) → The red one looks better.
 ```
 
 ### 🏫 At School/College (স্কুল/কলেজে)
@@ -655,6 +675,26 @@ What + auxiliary verb + subject + main verb?
 38. What does this word mean? (এই শব্দের অর্থ কি?) → It means "beautiful".
 39. When will we get our results? (আমরা কখন আমাদের ফলাফল পাবো?) → We will get results next month.
 40. How can I improve my English? (আমি কিভাবে আমার ইংরেজি উন্নত করতে পারি?) → Practice speaking daily.
+41. What chapter are we studying? (আমরা কোন অধ্যায় পড়ছি?) → We're studying chapter 5.
+42. Where can I find reference books? (আমি কোথায় রেফারেন্স বই পাবো?) → You can find them in the library.
+43. When is the group study? (গ্রুপ স্টাডি কখন?) → It's at 4 PM today.
+44. Who is the best student in class? (ক্লাসে সেরা ছাত্র কে?) → Fatima is the best student.
+45. Why did you miss the class? (তুমি ক্লাস মিস করলে কেন?) → I had a doctor's appointment.
+46. How do you memorize formulas? (তুমি কিভাবে সূত্র মুখস্থ করো?) → I practice them repeatedly.
+47. Which university do you want to attend? (তুমি কোন বিশ্ববিদ্যালয়ে যেতে চাও?) → I want to attend Dhaka University.
+48. What's your GPA? (তোমার জিপিএ কত?) → My GPA is 4.5.
+49. Where is the computer lab? (কম্পিউটার ল্যাব কোথায়?) → It's on the third floor.
+50. When do we have practical classes? (আমাদের কখন প্র্যাকটিক্যাল ক্লাস আছে?) → We have them on Thursdays.
+51. Who is your study partner? (তোমার স্টাডি পার্টনার কে?) → Rahim is my study partner.
+52. Why are you stressed? (তুমি কেন চাপে আছো?) → Because exams are coming.
+53. How many subjects do you have? (তোমার কতগুলো বিষয় আছে?) → I have 6 subjects.
+54. Which topic is difficult? (কোন টপিক কঠিন?) → Calculus is difficult.
+55. What time is the tutorial? (টিউটোরিয়াল কখন?) → The tutorial is at 3 PM.
+56. Where should I submit my project? (আমি আমার প্রজেক্ট কোথায় জমা দেবো?) → Submit it to the department office.
+57. When is the semester break? (সেমিস্টার ব্রেক কখন?) → It's in December.
+58. Who won the debate competition? (ডিবেট প্রতিযোগিতায় কে জিতেছে?) → Our team won.
+59. Why is the class cancelled? (ক্লাস কেন বাতিল হয়েছে?) → The teacher is sick.
+60. How do you take notes? (তুমি কিভাবে নোট নাও?) → I take notes on my laptop.
 ```
 
 ### 🛒 Shopping (কেনাকাটা)
@@ -685,6 +725,26 @@ What + auxiliary verb + subject + main verb?
 58. How long is the warranty? (ওয়ারেন্টি কত দিনের?) → The warranty is for 1 year.
 59. When can I return this? (আমি এটা কখন ফেরত দিতে পারি?) → You can return within 7 days.
 60. Who should I talk to for complaints? (অভিযোগের জন্য আমি কার সাথে কথা বলবো?) → Talk to the manager.
+61. What size do you need? (তোমার কি সাইজ দরকার?) → I need medium size.
+62. Where can I try this on? (আমি এটা কোথায় পরে দেখতে পারি?) → The fitting room is over there.
+63. When does the sale end? (সেল কখন শেষ হবে?) → The sale ends this weekend.
+64. Who can show me more options? (আমাকে আরো অপশন কে দেখাতে পারে?) → The salesperson can help you.
+65. Why don't you have my size? (তোমাদের কাছে আমার সাইজ নেই কেন?) → It's out of stock.
+66. How much for two pieces? (দুটি পিসের জন্য কত?) → It's 900 taka for two.
+67. Which color is available? (কোন রঙ উপলব্ধ?) → Red and blue are available.
+68. What's the expiry date? (মেয়াদ উত্তীর্ণের তারিখ কত?) → It expires in 2025.
+69. Where is the electronics section? (ইলেকট্রনিক্স সেকশন কোথায়?) → It's on the second floor.
+70. When will new stock arrive? (নতুন স্টক কখন আসবে?) → New stock arrives next week.
+71. Who is the owner? (মালিক কে?) → Mr. Karim is the owner.
+72. Why is this damaged? (এটা কেন ক্ষতিগ্রস্ত?) → It was damaged during shipping.
+73. How do I use this product? (আমি এই পণ্য কিভাবে ব্যবহার করবো?) → Read the instructions on the box.
+74. Which one is on sale? (কোনটি সেলে আছে?) → The blue one is on sale.
+75. What's the original price? (আসল দাম কত?) → The original price is 1000 taka.
+76. Where can I get a bag? (আমি কোথায় ব্যাগ পাবো?) → We'll give you a bag at checkout.
+77. When do you close? (তুমরা কখন বন্ধ করো?) → We close at 9 PM.
+78. Who can help me carry this? (এটা বহন করতে আমাকে কে সাহায্য করতে পারে?) → Our staff can help you.
+79. Why is there a queue? (কেন লাইন আছে?) → Because it's weekend.
+80. How can I get a receipt? (আমি কিভাবে রসিদ পাবো?) → You'll get it after payment.
 ```
 
 ### 🍽️ At Restaurant (রেস্তোরাঁয়)
@@ -701,6 +761,26 @@ What + auxiliary verb + subject + main verb?
 68. What drinks do you have? (তোমাদের কি পানীয় আছে?) → We have juice, tea, and soft drinks.
 69. Where is the washroom? (ওয়াশরুম কোথায়?) → The washroom is downstairs.
 70. How much is the bill? (বিল কত?) → The bill is 800 taka.
+71. What's today's special? (আজকের স্পেশাল কি?) → Today's special is beef curry.
+72. Where is the menu? (মেনু কোথায়?) → Here's the menu.
+73. When do you serve breakfast? (তুমরা কখন নাস্তা পরিবেশন করো?) → We serve breakfast from 7 to 11 AM.
+74. Who is the chef? (শেফ কে?) → Chef Rahman is our head chef.
+75. Why is this dish cold? (এই খাবার ঠান্ডা কেন?) → Let me heat it for you.
+76. How many people can sit here? (এখানে কতজন বসতে পারে?) → This table seats 6 people.
+77. Which dessert do you recommend? (কোন ডেজার্ট তুমি সুপারিশ করো?) → I recommend the chocolate cake.
+78. What time do you close? (তুমরা কখন বন্ধ করো?) → We close at 11 PM.
+79. Where can I wash my hands? (আমি কোথায় হাত ধুতে পারি?) → The washroom is to your left.
+80. When can we get the check? (আমরা কখন চেক পাবো?) → I'll bring it right away.
+81. Who made this delicious food? (এই স্বাদু খাবার কে তৈরি করেছে?) → Our chef made it.
+82. Why don't you have this item? (তোমাদের কাছে এই আইটেম নেই কেন?) → It's out of season.
+83. How do you make this? (তুমরা এটা কিভাবে তৈরি করো?) → It's our secret recipe.
+84. Which table has a better view? (কোন টেবিলে ভালো ভিউ আছে?) → The window table has a better view.
+85. What's included in the combo? (কম্বোতে কি কি অন্তর্ভুক্ত?) → It includes rice, curry, and salad.
+86. Where do you get your ingredients? (তুমরা উপাদান কোথা থেকে পাও?) → We get fresh ingredients daily.
+87. When is happy hour? (হ্যাপি আওয়ার কখন?) → Happy hour is from 5 to 7 PM.
+88. Who can I speak to about catering? (ক্যাটারিং নিয়ে আমি কার সাথে কথা বলতে পারি?) → Speak to the manager.
+89. Why is there a service charge? (সার্ভিস চার্জ কেন আছে?) → It's our restaurant policy.
+90. How can I make a reservation? (আমি কিভাবে রিজার্ভেশন করতে পারি?) → You can call us or book online.
 ```
 
 ### 🚗 Transportation (যাতায়াত)
@@ -717,6 +797,26 @@ What + auxiliary verb + subject + main verb?
 78. What time does the train leave? (ট্রেন কখন ছাড়ে?) → The train leaves at 9 AM.
 79. Who is driving? (কে গাড়ি চালাচ্ছে?) → My brother is driving.
 80. When is the next bus? (পরবর্তী বাস কখন?) → The next bus is in 10 minutes.
+81. What's the ticket price? (টিকেটের দাম কত?) → The ticket is 50 taka.
+82. Where can I buy tickets? (আমি কোথায় টিকেট কিনতে পারি?) → You can buy at the counter.
+83. When does the metro open? (মেট্রো কখন খোলে?) → The metro opens at 6 AM.
+84. Who can help with directions? (দিকনির্দেশনায় কে সাহায্য করতে পারে?) → Ask the conductor.
+85. Why is the bus late? (বাস দেরি কেন?) → Because of road construction.
+86. How long is the journey? (যাত্রা কত লম্বা?) → The journey is 2 hours.
+87. Which platform for Chittagong? (চট্টগ্রামের জন্য কোন প্ল্যাটফর্ম?) → Platform 3.
+88. What's the last stop? (শেষ স্টপ কোথায়?) → The last stop is Uttara.
+89. Where is the taxi stand? (ট্যাক্সি স্ট্যান্ড কোথায়?) → It's outside the station.
+90. When will the traffic clear? (ট্রাফিক কখন কমবে?) → It should clear in 20 minutes.
+91. Who drives this route? (এই রুটে কে গাড়ি চালায়?) → Different drivers rotate.
+92. Why did we stop? (আমরা কেন থামলাম?) → There's a red light.
+93. How much for airport? (এয়ারপোর্টের জন্য কত?) → It's 500 taka to the airport.
+94. Which way is faster? (কোন পথ দ্রুত?) → The highway is faster.
+95. What time is rush hour? (রাশ আওয়ার কখ঩?) → Rush hour is 8 to 10 AM.
+96. Where do I change buses? (আমি কোথায় বাস পরিবর্তন করবো?) → Change at Mohakhali.
+97. When is the train delayed? (ট্রেন কখন দেরি হয়?) → It's delayed by 30 minutes.
+98. Who checks tickets? (কে টিকেট চেক করে?) → The ticket inspector checks.
+99. Why is this road closed? (এই রাস্তা কেন বন্ধ?) → There's maintenance work.
+100. How do I call a ride? (আমি কিভাবে রাইড কল করবো?) → Use the Uber app.
 ```
 
 ### 🏥 At Doctor's (ডাক্তারের কাছে)
@@ -733,6 +833,26 @@ What + auxiliary verb + subject + main verb?
 88. What should I avoid? (আমি কি এড়িয়ে চলবো?) → Avoid cold drinks.
 89. When should I come back? (আমি কখন আবার আসবো?) → Come back after a week.
 90. How much is the consultation fee? (পরামর্শ ফি কত?) → The fee is 500 taka.
+91. What are my symptoms? (আমার লক্ষণগুলো কি?) → You have fever and cough.
+92. Where is the emergency room? (ইমারজেন্সি রুম কোথায়?) → It's on the ground floor.
+93. When can I get the test results? (আমি কখন টেস্টের ফলাফল পাবো?) → You'll get them tomorrow.
+94. Who can prescribe medicine? (কে ওষুধ দিতে পারে?) → Only a doctor can prescribe.
+95. Why do I need this test? (আমার এই টেস্ট কেন দরকার?) → To check your blood sugar.
+96. How long will recovery take? (সুস্থ হতে কত সময় লাগবে?) → It will take 2 weeks.
+97. Which specialist should I see? (আমি কোন বিশেষজ্ঞ দেখাবো?) → You should see a cardiologist.
+98. What's my blood pressure? (আমার ব্লাড প্রেসার কত?) → Your BP is 120/80.
+99. Where can I get an X-ray? (আমি কোথায় এক্স-রে করাতে পারি?) → Go to the radiology department.
+100. When is visiting hours? (ভিজিটিং আওয়ার কখন?) → Visiting hours are 4 to 6 PM.
+101. Who is the nurse on duty? (ডিউটিতে কোন নার্স আছে?) → Nurse Fatima is on duty.
+102. Why am I feeling dizzy? (আমি কেন মাথা ঘোরা অনুভব করছি?) → It's a side effect of the medicine.
+103. How should I take this? (আমি এটা কিভাবে খাবো?) → Take it after meals.
+104. Which insurance do you accept? (তুমরা কোন ইনসুরেন্স গ্রহণ করো?) → We accept all major insurance.
+105. What's the diagnosis? (ডায়াগনোসিস কি?) → You have a viral infection.
+106. Where is the lab? (ল্যাব কোথায়?) → The lab is on the second floor.
+107. When should I stop this medicine? (আমি কখন এই ওষুধ বন্ধ করবো?) → Stop after 7 days.
+108. Who can give me a prescription? (আমাকে কে প্রেসক্রিপশন দিতে পারে?) → The doctor will give you one.
+109. Why is my temperature high? (আমার তাপমাত্রা বেশি কেন?) → You have an infection.
+110. How much water should I drink? (আমি কত পানি খাবো?) → Drink at least 8 glasses daily.
 ```
 
 ### 📱 Phone Conversations (ফোনে কথা)
@@ -749,6 +869,26 @@ What + auxiliary verb + subject + main verb?
 98. What's the matter? (কি ব্যাপার?) → I need your help.
 99. When will you call back? (তুমি কখন আবার ফোন করবে?) → I'll call back in an hour.
 100. Who gave you my number? (তোমাকে আমার নম্বর কে দিয়েছে?) → Your friend gave it to me.
+101. What's your WhatsApp number? (তোমার হোয়াটসঅ্যাপ নম্বর কত?) → It's the same as my phone number.
+102. Where is your phone? (তোমার ফোন কোথায়?) → I left it at home.
+103. When did you try to call? (তুমি কখন ফোন করার চেষ্টা করেছিলে?) → I tried this morning.
+104. Who answered the phone? (ফোন কে ধরেছিল?) → Your brother answered.
+105. Why is your phone off? (তোমার ফোন বন্ধ কেন?) → The battery died.
+106. How long will you talk? (তুমি কতক্ষণ কথা বলবে?) → Just 5 minutes.
+107. Which app should I use? (আমি কোন অ্যাপ ব্যবহার করবো?) → Use Messenger or WhatsApp.
+108. What time did I call? (আমি কখন ফোন করেছিলাম?) → You called at 3 PM.
+109. Where's the signal? (সিগনাল কোথায়?) → There's no signal here.
+110. When will you be free? (তুমি কখন ফ্রি হবে?) → I'll be free after 6 PM.
+111. Who should I call? (আমি কাকে ফোন করবো?) → Call the customer service.
+112. Why is the line busy? (লাইন বিজি কেন?) → Someone else is calling.
+113. How do I block this number? (আমি এই নম্বর কিভাবে ব্লক করবো?) → Go to settings and block it.
+114. Which plan do you have? (তোমার কোন প্ল্যান আছে?) → I have a prepaid plan.
+115. What's the call rate? (কল রেট কত?) → It's 1 taka per minute.
+116. Where can I recharge? (আমি কোথায় রিচার্জ করতে পারি?) → You can recharge online.
+117. When does the offer end? (অফার কখন শেষ হবে?) → The offer ends this month.
+118. Who is on the other line? (অন্য লাইনে কে আছে?) → It's my mom.
+119. Why can't I hear you? (আমি তোমার কথা শুনতে পাচ্ছি না কেন?) → The connection is bad.
+120. How much balance do I have? (আমার কত ব্যালেন্স আছে?) → Dial *566# to check.
 ```
 
 ### 💼 At Work/Office (কর্মস্থলে)
@@ -765,6 +905,26 @@ What + auxiliary verb + subject + main verb?
 108. What are your working hours? (তোমার কাজের সময় কি?) → My working hours are 9 to 5.
 109. When is the meeting? (মিটিং কখন?) → The meeting is at 2 PM.
 110. Where should I submit this report? (আমি এই রিপোর্ট কোথায় জমা দেবো?) → Submit it to the manager.
+111. What's the deadline? (ডেডলাইন কখন?) → The deadline is Friday.
+112. Where is the conference room? (কনফারেন্স রুম কোথায়?) → It's on the 5th floor.
+113. When is lunch break? (দুপুরের খাবারের ব্রেক কখন?) → Lunch break is from 1 to 2 PM.
+114. Who handles HR matters? (এইচআর বিষয় কে দেখে?) → Ms. Fatima handles HR.
+115. Why is the system down? (সিস্টেম ডাউন কেন?) → There's a technical issue.
+116. How many leave days do I have? (আমার কত দিন ছুটি আছে?) → You have 10 days left.
+117. Which project are you working on? (তুমি কোন প্রজেক্টে কাজ করছো?) → I'm working on the new website.
+118. What's the WiFi password? (ওয়াইফাই পাসওয়ার্ড কি?) → Ask the IT department.
+119. Where can I print documents? (আমি কোথায় ডকুমেন্ট প্রিন্ট করতে পারি?) → Use the printer in the copy room.
+120. When is payday? (বেতনের দিন কখন?) → Payday is on the 1st.
+121. Who is the team leader? (টিম লিডার কে?) → Rahim is our team leader.
+122. Why was I not informed? (আমাকে জানানো হয়নি কেন?) → It was an oversight.
+123. How do I apply for leave? (আমি কিভাবে ছুটির জন্য আবেদন করবো?) → Fill out the leave form.
+124. Which email should I use? (আমি কোন ইমেইল ব্যবহার করবো?) → Use your official email.
+125. What's the dress code? (ড্রেস কোড কি?) → Business casual.
+126. Where is the cafeteria? (ক্যাফেটেরিয়া কোথায়?) → It's on the ground floor.
+127. When do we get bonuses? (আমরা কখন বোনাস পাই?) → We get bonuses in December.
+128. Who approves expenses? (খরচ কে অনুমোদন করে?) → The finance manager approves.
+129. Why is the office closed? (অফিস কেন বন্ধ?) → It's a public holiday.
+130. How do I access the server? (আমি কিভাবে সার্ভার অ্যাক্সেস করবো?) → Contact IT support.
 ```
 
 ### 🎉 Social Events (সামাজিক অনুষ্ঠান)
@@ -781,6 +941,26 @@ What + auxiliary verb + subject + main verb?
 118. What food will be served? (কি খাবার পরিবেশন করা হবে?) → We'll have biryani and desserts.
 119. When will it end? (এটা কখন শেষ হবে?) → It will end around midnight.
 120. How many people are invited? (কতজন লোক আমন্ত্রিত?) → About 50 people are invited.
+121. What's the theme? (থিম কি?) → It's a retro theme party.
+122. Where can I park? (আমি কোথায় পার্ক করতে পারি?) → You can park in the driveway.
+123. When is the cake cutting? (কেক কাটা কখন?) → Cake cutting is at 9 PM.
+124. Who is the DJ? (ডিজে কে?) → DJ Rahim is playing tonight.
+125. Why did you change the venue? (তুমি ভেনিউ পরিবর্তন করলে কেন?) → The original place was booked.
+126. How can I RSVP? (আমি কিভাবে আরএসভিপি করবো?) → Reply to the invitation message.
+127. Which songs will be played? (কোন গান বাজানো হবে?) → We'll play popular hits.
+128. What drinks are available? (কি পানীয় উপলব্ধ?) → Soft drinks and juice.
+129. Where is the dance floor? (ডান্স ফ্লোর কোথায়?) → It's in the main hall.
+130. When should I leave? (আমি কখন চলে যাবো?) → You can leave anytime.
+131. Who organized this? (এটা কে আয়োজন করেছে?) → My friends organized it.
+132. Why is it so crowded? (এত ভিড় কেন?) → Everyone showed up.
+133. How do I get there? (আমি সেখানে কিভাবে যাবো?) → I'll send you the location.
+134. Which entrance should I use? (আমি কোন প্রবেশদ্বার ব্যবহার করবো?) → Use the main entrance.
+135. What's the surprise? (সারপ্রাইজ কি?) → You'll see at the party.
+136. Where are the decorations? (সাজসজ্জা কোথায়?) → Decorations are everywhere.
+137. When can I bring my kids? (আমি কখন আমার বাচ্চাদের আনতে পারি?) → Kids are welcome anytime.
+138. Who is the host? (হোস্ট কে?) → I am the host.
+139. Why is there a cover charge? (কভার চার্জ কেন আছে?) → To cover the expenses.
+140. How was the party? (পার্টি কেমন ছিল?) → It was amazing!
 ```
 
 ### 🏨 Hotel/Accommodation (হোটেল/থাকার জায়গা)
@@ -797,6 +977,26 @@ What + auxiliary verb + subject + main verb?
 128. What amenities are included? (কি কি সুবিধা অন্তর্ভুক্ত?) → WiFi and breakfast are included.
 129. When is checkout time? (চেকআউট টাইম কখন?) → Checkout time is 12 PM.
 130. Where can I park my car? (আমি আমার গাড়ি কোথায় পার্ক করবো?) → You can park in the basement.
+131. What's the room rate? (রুমের দাম কত?) → It's 5000 taka per night.
+132. Where is the reception? (রিসেপশন কোথায়?) → Reception is on the ground floor.
+133. When is breakfast served? (নাস্তা কখন পরিবেশন করা হয়?) → Breakfast is from 7 to 10 AM.
+134. Who can help with luggage? (লাগেজে কে সাহায্য করতে পারে?) → The bellboy can help.
+135. Why is there no hot water? (গরম পানি নেই কেন?) → I'll send someone to fix it.
+136. How do I get room service? (আমি কিভাবে রুম সার্ভিস পাবো?) → Dial 0 from your room phone.
+137. Which payment methods do you accept? (তুমরা কি পেমেন্ট পদ্ধতি গ্রহণ করো?) → We accept cash and cards.
+138. What's the cancellation policy? (ক্যান্সেলেশন পলিসি কি?) → Free cancellation 24 hours before.
+139. Where is the gym? (জিম কোথায়?) → The gym is on the 2nd floor.
+140. When can I extend my stay? (আমি কখন আমার থাকা বাড়াতে পারি?) → Contact reception to extend.
+141. Who cleans the room? (রুম কে পরিষ্কার করে?) → Housekeeping cleans daily.
+142. Why is my key not working? (আমার চাবি কাজ করছে না কেন?) → Let me reprogram it.
+143. How far is the beach? (বিচ কত দূর?) → The beach is 2 km away.
+144. Which restaurants are nearby? (কাছাকাছি কোন রেস্তোরাঁ আছে?) → There are many on the main street.
+145. What time is housekeeping? (হাউসকিপিং কখন?) → Housekeeping is at 10 AM.
+146. Where can I store valuables? (আমি মূল্যবান জিনিস কোথায় রাখতে পারি?) → Use the in-room safe.
+147. When is the pool open? (পুল কখন খোলা?) → The pool is open 6 AM to 10 PM.
+148. Who do I call for maintenance? (মেইনটেনেন্সের জন্য আমি কাকে কল করবো?) → Call extension 100.
+149. Why is the AC not working? (এসি কাজ করছে না কেন?) → I'll send a technician.
+150. How do I connect to WiFi? (আমি কিভাবে ওয়াইফাই কনেক্ট করবো?) → The password is on your key card.
 ```
 
 ### 🎓 Job Interview (চাকরির ইন্টারভিউ)
@@ -813,6 +1013,26 @@ What + auxiliary verb + subject + main verb?
 138. What's your strength? (তোমার শক্তি কি?) → My strength is problem-solving.
 139. When will we hear from you? (আমরা তোমার কাছ থেকে কখন শুনবো?) → You'll hear within a week.
 140. Where do you see yourself in 5 years? (৫ বছরে তুমি নিজেকে কোথায় দেখো?) → I see myself as a senior manager.
+141. What's your weakness? (তোমার দুর্বলতা কি?) → I sometimes work too hard.
+142. Where did you hear about this job? (তুমি এই চাকরির কথা কোথায় শুনেছো?) → I saw it on LinkedIn.
+143. When did you graduate? (তুমি কখন গ্র্যাজুয়েট হয়েছো?) → I graduated in 2020.
+144. Who can provide references? (কে রেফারেন্স দিতে পারে?) → My previous manager can.
+145. Why did you leave your last job? (তুমি শেষ চাকরি কেন ছেড়েছিলে?) → I wanted new challenges.
+146. How do you handle pressure? (তুমি চাপ কিভাবে সামলাও?) → I stay calm and focused.
+147. Which software can you use? (তুমি কোন সফটওয়্যার ব্যবহার করতে পারো?) → I can use MS Office and Adobe.
+148. What motivates you? (কি তোমাকে উৎসাহিত করে?) → Achieving goals motivates me.
+149. Where are you currently working? (তুমি এখন কোথায় কাজ করছো?) → I'm currently unemployed.
+150. When are you available for interview? (তুমি ইন্টারভিউয়ের জন্য কখন উপলব্ধ?) → I'm available anytime.
+151. Who is your role model? (তোমার রোল মডেল কে?) → Steve Jobs is my role model.
+152. Why should we hire you? (আমরা তোমাকে কেন নিয়োগ দেবো?) → Because I'm the best fit.
+153. How do you work in a team? (তুমি টিমে কিভাবে কাজ করো?) → I collaborate well with others.
+154. Which languages do you speak? (তুমি কোন ভাষা বলতে পারো?) → I speak Bengali and English.
+155. What are your hobbies? (তোমার শখ কি?) → I like reading and traveling.
+156. Where do you live? (তুমি কোথায় থাকো?) → I live in Dhaka.
+157. When can you join? (তুমি কখন জয়েন করতে পারবে?) → I can join immediately.
+158. Who referred you? (তোমাকে কে রেফার করেছে?) → No one, I applied directly.
+159. Why this company? (কেন এই কোম্পানি?) → Because of its reputation.
+160. How did you prepare for this interview? (তুমি এই ইন্টারভিউয়ের জন্য কিভাবে প্রস্তুত হয়েছো?) → I researched the company.
 ```
 
 ---
