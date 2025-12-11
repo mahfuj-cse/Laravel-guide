@@ -1001,38 +1001,154 @@ What + auxiliary verb + subject + main verb?
 
 ### 🎓 Job Interview (চাকরির ইন্টারভিউ)
 
-#### Interview Questions:
+#### Basic Interview Questions:
 ```
-131. What's your qualification? (তোমার যোগ্যতা কি?) → I have a bachelor's degree.
-132. Where did you study? (তুমি কোথায় পড়াশোনা করেছো?) → I studied at Dhaka University.
-133. When can you start? (তুমি কখন শুরু করতে পারবে?) → I can start next month.
-134. Who was your previous employer? (তোমার আগের নিয়োগকর্তা কে ছিল?) → I worked at ABC Company.
-135. Why do you want this job? (তুমি এই চাকরি কেন চাও?) → Because it matches my skills.
-136. How much salary do you expect? (তুমি কত বেতন আশা করো?) → I expect 50,000 taka per month.
-137. Which skills do you have? (তোমার কি কি দক্ষতা আছে?) → I have computer and communication skills.
-138. What's your strength? (তোমার শক্তি কি?) → My strength is problem-solving.
-139. When will we hear from you? (আমরা তোমার কাছ থেকে কখন শুনবো?) → You'll hear within a week.
-140. Where do you see yourself in 5 years? (৫ বছরে তুমি নিজেকে কোথায় দেখো?) → I see myself as a senior manager.
-141. What's your weakness? (তোমার দুর্বলতা কি?) → I sometimes work too hard.
-142. Where did you hear about this job? (তুমি এই চাকরির কথা কোথায় শুনেছো?) → I saw it on LinkedIn.
-143. When did you graduate? (তুমি কখন গ্র্যাজুয়েট হয়েছো?) → I graduated in 2020.
-144. Who can provide references? (কে রেফারেন্স দিতে পারে?) → My previous manager can.
-145. Why did you leave your last job? (তুমি শেষ চাকরি কেন ছেড়েছিলে?) → I wanted new challenges.
-146. How do you handle pressure? (তুমি চাপ কিভাবে সামলাও?) → I stay calm and focused.
-147. Which software can you use? (তুমি কোন সফটওয়্যার ব্যবহার করতে পারো?) → I can use MS Office and Adobe.
-148. What motivates you? (কি তোমাকে উৎসাহিত করে?) → Achieving goals motivates me.
-149. Where are you currently working? (তুমি এখন কোথায় কাজ করছো?) → I'm currently unemployed.
-150. When are you available for interview? (তুমি ইন্টারভিউয়ের জন্য কখন উপলব্ধ?) → I'm available anytime.
-151. Who is your role model? (তোমার রোল মডেল কে?) → Steve Jobs is my role model.
-152. Why should we hire you? (আমরা তোমাকে কেন নিয়োগ দেবো?) → Because I'm the best fit.
-153. How do you work in a team? (তুমি টিমে কিভাবে কাজ করো?) → I collaborate well with others.
-154. Which languages do you speak? (তুমি কোন ভাষা বলতে পারো?) → I speak Bengali and English.
-155. What are your hobbies? (তোমার শখ কি?) → I like reading and traveling.
-156. Where do you live? (তুমি কোথায় থাকো?) → I live in Dhaka.
-157. When can you join? (তুমি কখন জয়েন করতে পারবে?) → I can join immediately.
-158. Who referred you? (তোমাকে কে রেফার করেছে?) → No one, I applied directly.
-159. Why this company? (কেন এই কোম্পানি?) → Because of its reputation.
-160. How did you prepare for this interview? (তুমি এই ইন্টারভিউয়ের জন্য কিভাবে প্রস্তুত হয়েছো?) → I researched the company.
+1. What's your name? (তোমার নাম কি?) → My name is Rahman Ahmed.
+2. Where are you from? (তুমি কোথা থেকে?) → I'm from Dhaka, Bangladesh.
+3. When did you graduate? (তুমি কখন গ্র্যাজুয়েট হয়েছো?) → I graduated in 2022.
+4. Who is your current employer? (তোমার বর্তমান নিয়োগকর্তা কে?) → I work at XYZ Company.
+5. Why are you here today? (তুমি আজ এখানে কেন?) → I'm here for the interview.
+6. How did you hear about this position? (তুমি এই পদের কথা কিভাবে জানলে?) → I saw it on your website.
+```
+
+#### Education & Qualifications:
+```
+7. What's your educational background? (তোমার শিক্ষাগত যোগ্যতা কি?) → I have a Bachelor's in Computer Science.
+8. Where did you study? (তুমি কোথায় পড়াশোনা করেছো?) → I studied at Dhaka University.
+9. When did you complete your degree? (তুমি কখন তোমার ডিগ্রি সম্পন্ন করেছো?) → I completed it in 2022.
+10. Who was your favorite professor? (তোমার প্রিয় প্রফেসর কে ছিল?) → Dr. Smith was my favorite.
+11. Why did you choose this field? (তুমি এই ক্ষেত্র কেন বেছে নিয়েছো?) → Because I love technology.
+12. How were your grades? (তোমার গ্রেড কেমন ছিল?) → I maintained a good GPA.
+```
+
+#### Work Experience:
+```
+13. What work experience do you have? (তোমার কি কাজের অভিজ্ঞতা আছে?) → I have 2 years of experience.
+14. Where did you work before? (তুমি আগে কোথায় কাজ করতে?) → I worked at ABC Technologies.
+15. When did you start your career? (তুমি কখন তোমার ক্যারিয়ার শুরু করেছিলে?) → I started in 2022.
+16. Who was your supervisor? (তোমার সুপারভাইজার কে ছিল?) → Mr. Khan was my supervisor.
+17. Why did you leave your last job? (তুমি শেষ চাকরি কেন ছেড়েছিলে?) → I wanted better opportunities.
+18. How long did you work there? (তুমি সেখানে কতদিন কাজ করেছিলে?) → I worked there for 18 months.
+```
+
+#### Skills & Abilities:
+```
+19. What skills do you have? (তোমার কি দক্ষতা আছে?) → I have programming and leadership skills.
+20. Where did you learn these skills? (তুমি এই দক্ষতাগুলো কোথায় শিখেছো?) → I learned them at university and work.
+21. When did you develop these skills? (তুমি কখন এই দক্ষতাগুলো অর্জন করেছো?) → Over the past 3 years.
+22. Who taught you programming? (তোমাকে প্রোগ্রামিং কে শিখিয়েছে?) → I learned it myself and from courses.
+23. Why are these skills important? (এই দক্ষতাগুলো কেন গুরুত্বপূর্ণ?) → They're essential for this role.
+24. How do you keep your skills updated? (তুমি কিভাবে তোমার দক্ষতা আপডেট রাখো?) → I take online courses regularly.
+```
+
+#### About the Job:
+```
+25. What interests you about this position? (এই পদ সম্পর্কে কি তোমাকে আগ্রহী করে?) → The growth opportunities interest me.
+26. Where do you see this role taking you? (এই ভূমিকা তোমাকে কোথায় নিয়ে যেতে পারে?) → It can help me become a team leader.
+27. When can you start working? (তুমি কখন কাজ শুরু করতে পারবে?) → I can start next month.
+28. Who would you report to? (তুমি কার কাছে রিপোর্ট করবে?) → I would report to the project manager.
+29. Why do you want to work here? (তুমি এখানে কাজ করতে কেন চাও?) → Because of the company's reputation.
+30. How does this job fit your career goals? (এই চাকরি তোমার ক্যারিয়ার লক্ষ্যের সাথে কিভাবে মানানসই?) → It aligns perfectly with my goals.
+```
+
+#### Salary & Benefits:
+```
+31. What salary do you expect? (তুমি কত বেতন আশা করো?) → I expect a competitive salary.
+32. Where did you get salary information? (তুমি বেতনের তথ্য কোথায় পেয়েছো?) → I researched online.
+33. When can we discuss salary details? (আমরা কখন বেতনের বিস্তারিত আলোচনা করতে পারি?) → After you make an offer.
+34. Who determines the salary range? (বেতনের পরিসীমা কে নির্ধারণ করে?) → Usually HR determines it.
+35. Why is salary important to you? (বেতন তোমার কাছে কেন গুরুত্বপূর্ণ?) → It reflects the value of my work.
+36. How flexible are you with salary? (বেতনের ব্যাপারে তুমি কতটা নমনীয়?) → I'm open to negotiation.
+```
+
+#### Personal Qualities:
+```
+37. What are your strengths? (তোমার শক্তিগুলো কি?) → I'm hardworking and reliable.
+38. Where do you use these strengths? (তুমি এই শক্তিগুলো কোথায় ব্যবহার করো?) → In my daily work and projects.
+39. When did you discover these strengths? (তুমি কখন এই শক্তিগুলো আবিষ্কার করেছিলে?) → During my college years.
+40. Who helped you identify your strengths? (তোমার শক্তি চিহ্নিত করতে কে সাহায্য করেছে?) → My mentors and colleagues.
+41. Why are these strengths valuable? (এই শক্তিগুলো কেন মূল্যবান?) → They help me deliver quality work.
+42. How do you develop your strengths? (তুমি কিভাবে তোমার শক্তি বিকাশ করো?) → Through continuous practice.
+```
+
+#### Weaknesses & Challenges:
+```
+43. What are your weaknesses? (তোমার দুর্বলতাগুলো কি?) → I sometimes focus too much on details.
+44. Where do these weaknesses affect you? (এই দুর্বলতাগুলো তোমাকে কোথায় প্রভাবিত করে?) → In time management sometimes.
+45. When did you realize these weaknesses? (তুমি কখন এই দুর্বলতাগুলো বুঝতে পেরেছিলে?) → During my first job.
+46. Who pointed out your weaknesses? (তোমার দুর্বলতা কে নির্দেশ করেছে?) → My previous manager did.
+47. Why is it important to know your weaknesses? (তোমার দুর্বলতা জানা কেন গুরুত্বপূর্ণ?) → So I can work on improving them.
+48. How are you improving your weaknesses? (তুমি কিভাবে তোমার দুর্বলতা উন্নত করছো?) → I'm taking time management courses.
+```
+
+#### Teamwork & Leadership:
+```
+49. What's your leadership style? (তোমার নেতৃত্বের ধরন কি?) → I believe in collaborative leadership.
+50. Where have you shown leadership? (তুমি কোথায় নেতৃত্ব দেখিয়েছো?) → In my previous project teams.
+51. When did you first lead a team? (তুমি প্রথম কখন একটি দল নেতৃত্ব দিয়েছিলে?) → During my final year project.
+52. Who inspired your leadership approach? (তোমার নেতৃত্বের পদ্ধতি কে অনুপ্রাণিত করেছে?) → My college professor inspired me.
+53. Why is teamwork important? (দলগত কাজ কেন গুরুত্বপূর্ণ?) → Because we achieve more together.
+54. How do you handle team conflicts? (তুমি দলের দ্বন্দ্ব কিভাবে সামলাও?) → I listen to all sides and find solutions.
+```
+
+#### Problem Solving:
+```
+55. What's a difficult problem you solved? (তুমি কোন কঠিন সমস্যা সমাধান করেছো?) → I solved a major system bug.
+56. Where did this problem occur? (এই সমস্যা কোথায় ঘটেছিল?) → In our main application.
+57. When did you encounter this problem? (তুমি কখন এই সমস্যার সম্মুখীন হয়েছিলে?) → Last year during a critical release.
+58. Who helped you solve it? (এটি সমাধান করতে কে তোমাকে সাহায্য করেছে?) → My team members supported me.
+59. Why was this problem challenging? (এই সমস্যা কেন চ্যালেঞ্জিং ছিল?) → Because it affected many users.
+60. How did you approach the solution? (তুমি সমাধানের কাছে কিভাবে পৌঁছেছিলে?) → I analyzed the code systematically.
+```
+
+#### Future Goals:
+```
+61. What are your career goals? (তোমার ক্যারিয়ার লক্ষ্য কি?) → I want to become a senior developer.
+62. Where do you see yourself in 5 years? (৫ বছরে তুমি নিজেকে কোথায় দেখো?) → Leading a development team.
+63. When do you plan to achieve these goals? (তুমি কখন এই লক্ষ্যগুলো অর্জনের পরিকল্পনা করছো?) → Within the next 3-5 years.
+64. Who influences your career decisions? (তোমার ক্যারিয়ার সিদ্ধান্তে কে প্রভাব ফেলে?) → My mentors and family.
+65. Why are these goals important to you? (এই লক্ষ্যগুলো তোমার কাছে কেন গুরুত্বপূর্ণ?) → They give direction to my career.
+66. How will this job help achieve your goals? (এই চাকরি তোমার লক্ষ্য অর্জনে কিভাবে সাহায্য করবে?) → It provides the right platform.
+```
+
+#### Company Knowledge:
+```
+67. What do you know about our company? (আমাদের কোম্পানি সম্পর্কে তুমি কি জানো?) → You're a leading tech company.
+68. Where did you research about us? (তুমি আমাদের সম্পর্কে কোথায় গবেষণা করেছো?) → On your website and LinkedIn.
+69. When was our company founded? (আমাদের কোম্পানি কখন প্রতিষ্ঠিত হয়েছিল?) → I believe it was founded in 2010.
+70. Who is our CEO? (আমাদের সিইও কে?) → Mr. Ahmed is your CEO.
+71. Why do you want to join our company? (তুমি আমাদের কোম্পানিতে যোগ দিতে কেন চাও?) → Because of your innovative culture.
+72. How can you contribute to our company? (তুমি আমাদের কোম্পানিতে কিভাবে অবদান রাখতে পারো?) → With my skills and dedication.
+```
+
+#### Availability & Logistics:
+```
+73. What's your availability? (তোমার সময়সূচী কি?) → I'm available full-time.
+74. Where do you prefer to work? (তুমি কোথায় কাজ করতে পছন্দ করো?) → I prefer office-based work.
+75. When can you start? (তুমি কখন শুরু করতে পারবে?) → I can start in two weeks.
+76. Who should we contact for references? (রেফারেন্সের জন্য আমরা কার সাথে যোগাযোগ করবো?) → You can contact my previous manager.
+77. Why is this timing good for you? (এই সময় তোমার জন্য কেন ভালো?) → I've completed my current commitments.
+78. How far do you live from here? (তুমি এখান থেকে কত দূরে থাকো?) → I live about 30 minutes away.
+```
+
+#### Motivation & Interests:
+```
+79. What motivates you at work? (কাজে কি তোমাকে অনুপ্রাণিত করে?) → Solving challenging problems motivates me.
+80. Where do you find inspiration? (তুমি কোথায় অনুপ্রেরণা পাও?) → From successful tech leaders.
+81. When do you feel most productive? (তুমি কখন সবচেয়ে উৎপাদনশীল বোধ করো?) → In the morning hours.
+82. Who is your role model? (তোমার আদর্শ কে?) → Elon Musk is my role model.
+83. Why does this work interest you? (এই কাজ তোমাকে কেন আগ্রহী করে?) → Because it involves innovation.
+84. How do you stay motivated? (তুমি কিভাবে অনুপ্রাণিত থাকো?) → By setting small achievable goals.
+```
+
+#### Final Questions:
+```
+85. What questions do you have for us? (আমাদের জন্য তোমার কি প্রশ্ন আছে?) → What's the team structure like?
+86. Where can we reach you? (আমরা তোমার সাথে কোথায় যোগাযোগ করতে পারি?) → You can call me or email.
+87. When will you make your decision? (তুমি কখন তোমার সিদ্ধান্ত নেবে?) → I'll decide within a week.
+88. Who else are you interviewing with? (তুমি আর কার সাথে ইন্টারভিউ দিচ্ছো?) → I have a few other opportunities.
+89. Why should we choose you? (আমরা তোমাকে কেন বেছে নেবো?) → Because I'm the best fit for this role.
+90. How soon can we expect your response? (আমরা কত তাড়াতাড়ি তোমার উত্তর আশা করতে পারি?) → You'll hear from me by Friday.
 ```
 
 ---
