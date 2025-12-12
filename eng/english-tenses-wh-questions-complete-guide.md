@@ -999,6 +999,88 @@ What + auxiliary verb + subject + main verb?
 150. How do I connect to WiFi? (আমি কিভাবে ওয়াইফাই কনেক্ট করবো?) → The password is on your key card.
 ```
 
+### 💼 Regular Meetings/Standup (নিয়মিত মিটিং/স্ট্যান্ডআপ)
+
+#### Daily Standup Questions:
+```
+1. What did you work on yesterday? (তুমি গতকাল কি নিয়ে কাজ করেছিলে?) → I worked on the login feature.
+2. Where are you with your current task? (তোমার বর্তমান কাজে তুমি কোথায় আছো?) → I'm 80% done with it.
+3. When will you finish this task? (তুমি কখন এই কাজ শেষ করবে?) → I'll finish it by today.
+4. Who is helping you with this? (এই কাজে তোমাকে কে সাহায্য করছে?) → Sarah is helping me.
+5. Why is this task taking longer? (এই কাজ বেশি সময় নিচ্ছে কেন?) → Because of some technical issues.
+6. How can we help you? (আমরা তোমাকে কিভাবে সাহায্য করতে পারি?) → I need help with the database.
+```
+
+#### Weekly Team Meeting:
+```
+7. What progress did we make this week? (এই সপ্তাহে আমরা কি অগ্রগতি করেছি?) → We completed 3 features.
+8. Where are we on the project timeline? (প্রজেক্ট টাইমলাইনে আমরা কোথায় আছি?) → We're on track.
+9. When is the next milestone? (পরবর্তী মাইলস্টোন কখন?) → Next Friday.
+10. Who needs support this week? (এই সপ্তাহে কার সাহায্য দরকার?) → John needs help with testing.
+11. Why are we behind schedule? (আমরা সময়সূচির পিছনে কেন?) → Due to unexpected bugs.
+12. How can we improve our process? (আমরা কিভাবে আমাদের প্রক্রিয়া উন্নত করতে পারি?) → By better planning.
+```
+
+#### Project Status Meeting:
+```
+13. What's the current project status? (বর্তমান প্রজেক্ট স্ট্যাটাস কি?) → We're 70% complete.
+14. Where are the main challenges? (মূল চ্যালেঞ্জগুলো কোথায়?) → In the integration phase.
+15. When will we deliver? (আমরা কখন ডেলিভার করবো?) → By month end.
+16. Who is responsible for testing? (টেস্টিং এর জন্য কে দায়ী?) → The QA team.
+17. Why is testing delayed? (টেস্টিং দেরি হচ্ছে কেন?) → Because development finished late.
+18. How many bugs are remaining? (কতগুলো বাগ বাকি আছে?) → About 15 bugs.
+```
+
+#### Sprint Planning:
+```
+19. What tasks are in this sprint? (এই স্প্রিন্টে কি কাজ আছে?) → 8 user stories.
+20. Where should we focus first? (আমাদের প্রথমে কোথায় ফোকাস করা উচিত?) → On high priority items.
+21. When does this sprint end? (এই স্প্রিন্ট কখন শেষ?) → In two weeks.
+22. Who will work on the API? (API নিয়ে কে কাজ করবে?) → Mike will handle it.
+23. Why is this story complex? (এই স্টোরি জটিল কেন?) → It involves multiple systems.
+24. How many story points total? (মোট কত স্টোরি পয়েন্ট?) → 40 story points.
+```
+
+#### Retrospective Meeting:
+```
+25. What went well this sprint? (এই স্প্রিন্টে কি ভালো হয়েছে?) → Good team collaboration.
+26. Where can we improve? (আমরা কোথায় উন্নতি করতে পারি?) → In code review process.
+27. When did we face issues? (আমরা কখন সমস্যার সম্মুখীন হয়েছি?) → During deployment.
+28. Who contributed the most? (কে সবচেয়ে বেশি অবদান রেখেছে?) → Everyone did their part.
+29. Why did we miss the deadline? (আমরা ডেডলাইন মিস করলাম কেন?) → Due to scope changes.
+30. How can we prevent this next time? (পরের বার এটা কিভাবে প্রতিরোধ করতে পারি?) → Better estimation.
+```
+
+#### Client Meeting:
+```
+31. What feedback do you have? (তোমার কি ফিডব্যাক আছে?) → The design looks great.
+32. Where should we make changes? (আমাদের কোথায় পরিবর্তন করা উচিত?) → In the user interface.
+33. When do you need this feature? (তোমার এই ফিচার কখন দরকার?) → By next month.
+34. Who will approve the final version? (চূড়ান্ত ভার্সন কে অনুমোদন করবে?) → The project manager.
+35. Why is this change necessary? (এই পরিবর্তন কেন প্রয়োজনীয়?) → For better user experience.
+36. How urgent is this request? (এই অনুরোধ কতটা জরুরি?) → It's high priority.
+```
+
+#### Technical Discussion:
+```
+37. What technology should we use? (আমাদের কোন প্রযুক্তি ব্যবহার করা উচিত?) → React for frontend.
+38. Where should we deploy this? (আমাদের এটা কোথায় ডিপ্লয় করা উচিত?) → On AWS cloud.
+39. When will the database be ready? (ডাটাবেস কখন প্রস্তুত হবে?) → By tomorrow.
+40. Who has experience with this framework? (এই ফ্রেমওয়ার্কে কার অভিজ্ঞতা আছে?) → Lisa has worked with it.
+41. Why choose this architecture? (এই আর্কিটেকচার কেন বেছে নিলাম?) → For better scalability.
+42. How will we handle security? (আমরা কিভাবে নিরাপত্তা সামলাবো?) → Using JWT tokens.
+```
+
+#### Budget/Resource Meeting:
+```
+43. What's our current budget status? (আমাদের বর্তমান বাজেট স্ট্যাটাস কি?) → We're within budget.
+44. Where are we overspending? (আমরা কোথায় বেশি খরচ করছি?) → On third-party tools.
+45. When do we need more resources? (আমাদের কখন আরো রিসোর্স দরকার?) → Next quarter.
+46. Who can join our team? (আমাদের টিমে কে যোগ দিতে পারে?) → We need a designer.
+47. Why do we need extra budget? (আমাদের অতিরিক্ত বাজেট কেন দরকার?) → For new features.
+48. How much will this cost? (এটার খরচ কত হবে?) → Around 50,000 taka.
+```
+
 ### 🎓 Job Interview (চাকরির ইন্টারভিউ)
 
 #### Basic Interview Questions:
