@@ -188,6 +188,11 @@ Why do you study English? (তুমি কেন ইংরেজি পড়�
 Why are you crying? (তুমি কেন কাঁদছো?) → Because I am sad.
 Why have you come here? (তুমি এখানে কেন এসেছো?) → I have come to meet you.
 Why have you been waiting? (তুমি কেন অপেক্ষা করে আসছো?) → I have been waiting for the bus.
+Why does he cry? (সে কেন কাঁদে?) → Because he is hungry.
+Why are they laughing? (তারা কেন হাসছে?) → Because they heard a joke.
+Why have you stopped? (তুমি কেন থেমেছো?) → Because I am tired.
+Why is she late? (সে কেন দেরি করেছে?) → Because of traffic.
+Why do you learn English? (তুমি কেন ইংরেজি শেখো?) → To get a good job.
 ```
 
 #### How Questions (Present):
