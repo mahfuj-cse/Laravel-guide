@@ -437,6 +437,11 @@ When will you come back? (তুমি কখন ফিরে আসবে?) →
 When will you be traveling? (তুমি কখন ভ্রমণ করতে থাকবে?) → I will be traveling in December.
 When will you have finished? (তুমি কখন শেষ করে ফেলবে?) → I will have finished by 5 PM.
 When will you have been studying? (তুমি কখন থেকে পড়তে থাকবে?) → I will have been studying since morning.
+When will the class start? (ক্লাস কখন শুরু হবে?) → It will start at 9 AM.
+When will he leave? (সে কখন চলে যাবে?) → He will leave tomorrow.
+When will you see him? (তুমি তাকে কখন দেখবে?) → I will see him soon.
+When will they play football? (তারা কখন ফুটবল খেলবে?) → They will play in the afternoon.
+When will your flight be? (তোমার ফ্লাইট কখন হবে?) → My flight will be at 10 PM.
 ```
 
 #### Who Questions (Future):
