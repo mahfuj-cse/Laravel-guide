@@ -226,6 +226,7 @@ How have you been managing? (তুমি কিভাবে সামলে আ
 #### Daily Use Examples:
 ```
 I woke up at 7 AM yesterday. (আমি গতকাল সকাল ৭টায় ঘুম থেকে উঠেছিলাম)
+
 She finished her work last night. (সে গত রাতে তার কাজ শেষ করেছিল)
 We visited our grandparents last week. (আমরা গত সপ্তাহে আমাদের দাদা-দাদীর সাথে দেখা করেছিলাম)
 The movie started at 8 PM. (সিনেমা রাত ৮টায় শুরু হয়েছিল)
