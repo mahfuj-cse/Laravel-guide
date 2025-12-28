@@ -90,6 +90,8 @@ The children are playing in the garden. (বাচ্চারা বাগা�
 9. Students _____ (study) for exams. **Answer: are studying**
 10. _____ it _____ (rain) heavily? **Answer: Is, raining**
 
+
+
 ### 🔹 Present Perfect (বর্তমান পূর্ণ)
 
 #### Structure:
