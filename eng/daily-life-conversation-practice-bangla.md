@@ -9,6 +9,7 @@
 6. [Phone Conversation](#6-phone-conversation)
 7. [At the Doctor's](#7-at-the-doctors)
 8. [Common Daily Questions](#8-common-daily-questions)
+9. [Regular Meetings](#9-regular-meetings)
 
 ---
 
@@ -144,5 +145,28 @@
   - *It's 4 PM.* (বিকাল ৪টা বাজে।)
 - **What's the weather like?** (আবহাওয়া কেমন?)
   - *It's sunny/rainy.* (রোদ/বৃষ্টি হচ্ছে।)
+
+---
+
+## 9. Regular Meetings (নিয়মিত মিটিং)
+
+### Daily Standup (দৈনিক স্ট্যান্ডআপ):
+- **What did you do yesterday?** (তুমি গতকাল কি করেছিলে?)
+  - *I worked on the login page.* (আমি লগইন পেজ নিয়ে কাজ করেছি।)
+- **What will you do today?** (তুমি আজ কি করবে?)
+  - *I will fix the bugs.* (আমি বাগগুলো ঠিক করবো।)
+- **Do you have any blockers?** (তোমার কি কোনো সমস্যা বা বাধা আছে?)
+  - *No, everything is fine.* (না, সবকিছু ঠিক আছে।)
+
+### Weekly Meeting (সাপ্তাহিক মিটিং):
+- **How was the progress this week?** (এই সপ্তাহে অগ্রগতি কেমন ছিল?)
+  - *We completed 3 tasks.* (আমরা ৩টি কাজ শেষ করেছি।)
+- **What is the plan for next week?** (আগামী সপ্তাহের পরিকল্পনা কি?)
+  - *We will start the new module.* (আমরা নতুন মডিউল শুরু করবো।)
+
+### Project Update (প্রজেক্ট আপডেট):
+- **Is the project on track?** (প্রজেক্ট কি ঠিক পথে আছে?)
+- **When is the deadline?** (শেষ সময়সীমা কবে?)
+- **We need more time.** (আমাদের আরো সময় প্রয়োজন।)
 
 ---
