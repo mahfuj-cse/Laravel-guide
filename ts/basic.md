@@ -287,6 +287,7 @@ console.log(input.value);
 
 ---
 
+
 ## Real-world Example
 
 একটি ছোট **Todo Application** এর টাইপ ডেফিনিশন কেমন হতে পারে:
