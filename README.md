@@ -550,6 +550,11 @@ RateLimiter::for('api', function (Request $request) {
 });
 ```
 
+### API Security
+Rate limiting, API keys, OAuth 2.0, JWT validation, input sanitization, CORS, mTLS,
+request signing, IP allowlisting এবং audit logging — ১০টি security layer এর বিস্তারিত
+বাংলা গাইড: **[api-security/README.md](api-security/README.md)**
+
 ---
 
 ## 1️⃣8️⃣ Laravel Packages
